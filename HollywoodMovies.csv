@@ -1,0 +1,971 @@
+Movie,LeadStudio,RottenTomatoes,AudienceScore,Story,Genre,TheatersOpenWeek,OpeningWeekend,BOAvgOpenWeekend,DomesticGross,ForeignGross,WorldGross,Budget,Profitability,OpenProfit,Year
+Spider-Man 3,Sony,61,54,Metamorphosis,Action,4252,151.1,35540,336.53,554.34,890.87,258,345.3,58.57,2007
+Shrek the Third,Paramount,42,57,Quest,Animation,4122,121.6,29507,322.72,476.24,798.96,160,499.35,76,2007
+Transformers,Paramount,57,89,Monster Force,Action,4011,70.5,17577,319.25,390.46,709.71,150,473.14,47,2007
+Pirates of the Caribbean: At World's End,Disney,45,74,Rescue,Action,4362,114.7,26302,309.42,654,963.42,300,321.14,38.23,2007
+Harry Potter and the Order of the Phoenix,Warner Bros,78,82,Quest,Adventure,4285,77.1,17998,292,647.88,939.89,150,626.59,51.4,2007
+I Am Legend,Warner Bros,69,69,Quest,Thriller,3606,77.2,21411,256.39,328.96,585.35,150,390.23,51.47,2007
+The Bourne Ultimatum,Universal,93,91,Pursuit,Thriller,3660,69.3,18929,227.47,215.35,442.82,110,402.57,63,2007
+National Treasure: Book of Secrets,Disney,31,72,The Riddle,Thriller,3832,44.8,11686,219.96,237.4,457.36,130,351.82,34.46,2007
+Alvin and the Chipmunks,Fox,26,73,Comedy,Animation,3475,44.3,12750,217.33,144.01,361.34,70,516.19,63.29,2007
+300,Warner Bros,60,90,Sacrifice,Action,3103,70.9,22844,210.61,245.45,456.07,65,701.64,109.08,2007
+Ratatouille,Disney,97,84,Transformation,Animation,3940,47,11935,206.45,417.28,623.72,150,415.81,31.33,2007
+The Simpsons Movie,Fox,90,78,Maturation,Comedy,3922,74,18877,183.14,343.94,527.07,75,702.76,98.67,2007
+Wild Hogs,Disney,14,72,Transformation,Comedy,3287,39.7,12077,168.27,85.35,253.62,90,281.8,44.11,2007
+Knocked Up,Universal,91,83,Love,Comedy,2871,30.7,10690,148.77,70.31,219.08,33,663.86,93.03,2007
+Juno,Fox,94,89,Maturation,Comedy,1019,10.6,10436,143.5,87.92,231.41,7.5,3085.48,141.33,2007
+Rush Hour 3,Warner Bros,20,68,Rescue,Action,3778,49.1,12996,140.13,117.9,258.02,140,184.3,35.07,2007
+Live Free or Die Hard,Fox,79,86,Rescue,Action,3408,33.4,9791,134.53,249,383.53,110,348.66,30.36,2007
+Fantastic Four: Rise of the Silver Surfer,Fox,35,55,Monster Force,Action,3959,58,14663,131.92,157.13,289.05,130,222.34,44.62,2007
+American Gangster,Universal,79,87,pursuit,Thriller,3054,43.6,14264,130.16,136.3,266.46,100,266.46,43.6,2007
+Enchanted,Disney,93,80,Love,Comedy,3730,34.4,9233,127.81,212.68,340.49,85,400.57,40.47,2007
+Bee Movie,Paramount,52,57,Journey and Return,Animation,3928,38,9679,126.63,160.96,287.59,150,191.73,25.33,2007
+Superbad,Sony,88,87,Comedy,Comedy,2948,33,11211,121.46,48.41,169.87,20,849.36,165,2007
+I Now Pronounce You Chuck and Larry,Universal,13,73,Comedy,Comedy,3495,34.2,9795,120.06,66.01,186.07,85,218.91,40.24,2007
+Hairspray,Warner Bros,92,84,Underdog,Musical,3121,27.5,8803,118.87,83.68,202.55,75,270.06,36.67,2007
+Blades of Glory,Paramount,69,66,Rivalry,Comedy,3372,33,9790,118.59,27.11,145.71,61,238.87,54.1,2007
+Ocean's 13,Warner Bros,70,74,Revenge,Thriller,3565,36.1,10135,117.15,194.16,311.31,85,366.25,42.47,2007
+Ghost Rider,Sony,28,56,Monster Force,Action,3619,45.3,12541,115.8,112.94,228.74,110,207.94,41.18,2007
+Evan Almighty,Universal,23,56,Comedy,Comedy,3604,31.2,8654,100.46,72.96,173.42,175,99.1,17.83,2007
+Meet the Robinsons,Disney,66,75,Quest,Animation,3413,25.1,7361,97.82,71.51,169.33,100,169.33,25.1,2007
+Norbit,Paramount,9,56,Comedy,Comedy,3136,34.2,10904,95.67,63.64,159.31,60,265.52,57,2007
+The Bucket List,Warner Bros,41,81,discovery,Drama,2911,19.4,6661,93.47,81.91,175.37,45,389.72,43.11,2007
+The Game Plan,Disney,27,75,Discovery,Comedy,3103,22.9,7396,90.65,57.23,147.88,22,672.18,104.09,2007
+Beowulf,Paramount,71,52,Journey and Return,Action,3153,27.5,8726,82.28,114.11,196.39,150,130.93,18.33,2007
+Disturbia,Paramount,67,75,Pursuit,Thriller,2925,22.2,7598,80.21,37.55,117.76,20,588.79,111,2007
+No Country for Old Men,Paramount,95,84,Pursuit,Drama,860,7.8,9042,74.28,97.34,171.63,25,686.5,31.2,2007
+The Golden Compass,Warner Bros,42,55,Rescue,Action,3528,25.7,7308,70.11,302.13,372.23,180,206.8,14.28,2007
+Charlie Wilson's War,Universal,82,73,Discovery,Biography,2575,9.6,3750,66.66,52.34,119,75,158.67,12.8,2007
+Saw IV,Independent,18,70,Escape,Horror,3183,31.7,9976,63.3,76.05,139.35,10,1393.52,317,2007
+Stomp the Yard,Independent,27,83,Maturation,Musical,2051,21.9,10645,61.36,14.15,75.51,14,539.36,156.43,2007
+Surf's Up,Sony,78,64,Discovery,Animation,3528,17.6,5000,58.87,90.18,149.04,85,175.34,20.71,2007
+Halloween,Weinstein,26,64,Pursuit,Horror,3472,26.4,7592,58.27,21.98,80.25,20,401.27,132,2007
+Tyler Perry's Why Did I get Married,Independent,46,47,Love,Romance,2011,21.4,10618,55.2,0.66,55.86,15,372.41,142.67,2007
+TMNT,,33,63,Monster Force,Action,3110,24.3,7799,54.15,41.46,95.61,35,273.17,69.43,2007
+P.S. I Love You,Independent,21,82,Love,Romance,2454,6.5,2641,53.7,103.14,156.83,30,522.78,21.67,2007
+3:10 to Yuma,Lionsgate,88,85,sacrifice,Adventure,2652,14,5292,53.61,16.41,70.02,48,145.86,29.17,2007
+Sweeney Todd: The Demon Barber of Fleet Street,Warner Bros,86,81,Revenge,Musical,1249,9.3,7446,52.9,99.63,152.52,50,305.05,18.6,2007
+Music and Lyrics,Warner Bros,63,70,Love,Romance,,13.6,,50.57,95.32,145.9,40,364.74,34,2007
+Michael Clayton,Independent,90,72,Transformation,Thriller,2511,10.4,4131,49.03,43.96,92.99,25,371.96,41.6,2007
+Premonition,Sony,8,55,The Riddle,Drama,2831,17.6,6202,47.85,36.29,84.15,20,420.73,88,2007
+The Kingdom,,52,78,Quest,Action,2793,17.1,6135,47.54,39.12,86.66,80,108.32,21.38,2007
+Shooter,Paramount,47,82,Pursuit,Action,2806,14.5,5175,47,48.69,95.7,61,156.88,23.77,2007
+License to Wed,Warner Bros,8,55,Love,Comedy,2604,10.4,4002,43.8,25.51,69.31,35,198.02,29.71,2007
+No Reservations,,39,64,Love,Comedy,2425,11.7,4826,43.11,49.49,92.6,28,330.71,41.79,2007
+Alien vs. Predator -- Requiem,Fox,14,37,Monster Force,Horror,2611,10,3853,41.8,87.09,128.88,40,322.21,25,2007
+There Will Be Blood,Paramount,91,84,Wretched Excess,Drama,885,4.9,5502,40.22,35.96,76.18,25,304.72,19.6,2007
+Epic Movie,Independent,2,38,Comedy,Comedy,2801,18.6,6644,39.74,47.13,86.87,20,434.33,93,2007
+Hitman,Fox,15,61,Quest,Action,2458,13.2,5362,39.69,60.28,99.97,17.5,571.23,75.43,2007
+30 Days of Night,Independent,50,57,Monster Force,Horror,2855,15.6,5587,39.57,35.94,75.5,32,235.95,48.75,2007
+Stardust,Paramount,76,86,Quest,Adventure,2540,9.16,3610,38.63,96.93,135.56,70,193.66,13.09,2007
+The Brave One,,43,65,Rivalry,Action,2755,13.5,4889,36.79,32.99,69.79,70,99.69,19.29,2007
+The Heartbreak Kid,Paramount,30,41,Love,Comedy,3229,14,4342,36.79,90.98,127.77,60,212.94,23.33,2007
+Smokin' Aces,Universal,27,64,Pursuit,Action,2218,14.6,6599,35.79,21.32,57.1,17,335.9,85.88,2007
+Good Luck Chuck,Lionsgate,3,61,Love,Comedy,2612,13.7,5226,35.02,24.17,59.19,25,236.76,54.8,2007
+Zodiac,Paramount,89,73,Pursuit,Thriller,2362,13.4,5671,33.08,51.71,84.79,65,130.44,20.62,2007
+Mr. Magorium's Wonder Emporium,Independent,36,56,Transformation,Fantasy,3164,9.63,3043,32.06,37.41,69.47,25,277.9,38.52,2007
+We Own the Night,Sony,55,63,Sacrifice,Drama,2362,10.8,4583,28.56,26.36,54.93,21,261.55,51.43,2007
+Mr. Brooks,MGM,56,75,Temptation,Thriller,2453,10,4083,28.55,19.57,48.12,20,240.61,50,2007
+The Nanny Diaries,Weinstein,33,52,Discovery,Comedy,2629,7.5,2845,25.93,21.81,47.74,20,238.69,37.5,2007
+Nancy Drew,Independent,49,61,The Riddle,Thriller,2612,6.9,2615,25.61,5.05,30.67,20,153.33,34.5,2007
+The Mist,Weinstein,72,64,Monster Force,Horror,2423,8.9,3686,25.59,31.7,57.29,18,318.29,49.44,2007
+The Reaping,,9,53,Quest,Horror,2603,10,3851,25.13,37.64,62.77,40,156.93,25,2007
+Grindhouse,Weinstein,82,86,pursuit,Action,2624,11.6,4419,25.04,0.38,25.42,53,47.96,21.89,2007
+Sicko,Weinstein,93,87,quest,Documentary,702,3.6,5128,24.54,11.55,36.09,9,400.98,40,2007
+Across the Universe,Independent,54,84,Love,Romance,954,3.8,4009,24.34,5.02,29.37,45,65.26,8.44,2007
+The Hills Have Eyes 2,Independent,11,50,Monster Force,Horror,2447,9.7,3958,20.8,16.66,37.47,15,249.77,64.67,2007
+Vacancy,Sony,55,46,Pursuit,Comedy,2551,7.6,2980,19.36,15.94,35.3,19,185.79,40,2007
+Waitress,Independent,89,67,Love,Romance,605,2,3327,19.07,3.1,22.18,2,1108.9,100,2007
+Into the Wild,Paramount,82,90,quest,Drama,658,2.1,3249,18.35,37.9,56.25,15,375.03,14,2007
+Walk Hard: The Dewey Cox Story,Sony,75,55,Comedy,Comedy,2650,4.1,1575,18.32,2.26,20.58,35,58.79,11.71,2007
+Next,Paramount,29,59,Pursuit,Thriller,2725,7.1,2617,18.21,57.86,76.07,70,108.67,10.14,2007
+Hostel: Part II,Lionsgate,44,45,Escape,Horror,2350,8.2,3490,17.61,18.01,35.62,10,356.19,82,2007
+The Kite Runner,Paramount,66,85,Maturation,Drama,715,1.6,2243,15.8,57.48,73.28,20,366.38,8,2007
+Happily N'Ever After,Lionsgate,4,43,Maturation,Animation,2381,6.6,2775,15.59,22.5,38.09,47,81.03,14.04,2007
+The Invasion,Warner Bros,19,43,Monster Force,Thriller,2776,5.6,2143,15.07,25.1,40.17,80,50.21,7,2007
+Lions for Lambs,Independent,27,48,Quest,Drama,2215,6.7,3025,15,48.21,63.22,35,180.61,19.14,2007
+Daddy Day Camp,Sony,1,63,Comedy,Comedy,2332,3.4,1459,13.24,4.96,18.2,6,303.28,56.67,2007
+Shoot 'Em Up,Warner Bros,67,66,Pursuit,Action,2108,5.7,2711,12.81,14.01,26.82,39,68.77,14.62,2007
+The Darjeeling Limited,Fox,67,79,Journey and Return,Drama,698,1.8,2523,11.9,23.18,35.08,17.5,200.45,10.29,2007
+In the Land of Women,Warner Bros,43,72,Transformation,Comedy,2155,4.7,2186,11.05,6.51,17.56,10,175.61,47,2007
+Dragon Wars (aka D-War),Mediaplex,27,44,Monster Force,Action,2277,5,2213,10.98,64.13,75.11,75,100.14,6.67,2007
+Pathfinder: Legend of the Ghost Warrior,,11,41,Rescue,Action,1720,5,2907,10.23,20.59,30.82,26,118.55,19.23,2007
+The Dark Knight,Warner Bros,94,96,Revenge,Thriller,4366,158.4,36283,534.86,469.7,1004.56,185,543,85.62,2008
+Iron Man,Paramount,94,91,Metamorphosis,Action,4105,98.62,24024,318.76,266.76,585.52,186,314.8,53.02,2008
+Indiana Jones and the Kingdom of the Crystal Skull,Paramount,77,59,Pursuit,Action,4260,100.1,23507,317.1,469.53,786.64,185,425.21,54.11,2008
+Hancock,Sony,40,67,Discovery,Action,3965,62.6,15789,227.95,396.44,624.39,150,416.26,41.73,2008
+WALL-E,Disney,96,89,love,Animation,3992,63.09,15803,223.81,297.5,521.31,180,289.62,35.05,2008
+Kung Fu Panda,Paramount,88,83,Underdog,Animation,4114,60.24,14642,215.43,416.31,631.74,200,315.87,30.12,2008
+Madagascar: Escape 2 Africa,Paramount,64,73,Journey and Return,Animation,4056,63.11,15559,180.01,423.89,603.9,150,402.6,42.07,2008
+Twilight,Summit,49,82,Love,Romance,3419,69.64,20368,192.77,199.85,392.62,37,1061.12,188.22,2008
+Quantum of Solace,MGM,64,62,Revenge,Action,3451,67.5,19568,168.37,417.72,586.09,230,254.82,29.35,2008
+Dr. Seuss' Horton Hears a Who!,Fox,79,75,rescue,Animation,3954,45,11384,154.53,142.61,297.14,85,349.57,52.94,2008
+Sex and the City,Warner Bros,49,81,love,Comedy,3285,57.04,17363,152.65,262.61,415.25,57.5,722.18,99.2,2008
+Gran Torino,Warner Bros,80,90,Temptation,Drama,,29.48,,148.1,121.86,269.96,33,818.05,89.33,2008
+Mamma Mia!,Universal,53,76,Love,Comedy,2976,27.75,9325,144.13,465.71,609.84,66,924,42.05,2008
+The Chronicles of Narnia: Prince Caspian,Disney,66,78,fish out of water,Action,3929,55.03,14007,141.62,278.04,419.67,200,209.83,27.52,2008
+Slumdog Millionaire,Independent,94,90,Underdog,Crime,,4.3,,141.32,236.59,377.91,15,2519.39,28.67,2008
+The Incredible Hulk,Universal,67,75,Metamorphosis,Action,3505,55.14,15810,134.81,128.62,263.43,137.5,191.58,40.1,2008
+Wanted,Universal,73,72,Transformation,Action,3175,50.93,16040,134.51,206.92,341.43,75,455.24,67.91,2008
+Get Smart,Warner Bros,51,73,Pursuit,Action,3911,38.7,9891,130.32,100.37,230.69,80,288.36,48.38,2008
+Four Christmases,Warner Bros,26,52,love,Comedy,,31.07,,120.15,43.59,163.73,80,204.67,38.84,2008
+Tropic Thunder,Paramount,83,69,fish out of water,Comedy,3319,25.81,7777,110.52,77.56,188.07,90,208.97,28.68,2008
+Bedtime Stories,Disney,25,63,rivalry,Comedy,3681,27.5,7457,110.1,102.77,212.87,80,266.09,34.38,2008
+Bolt,Disney,89,76,rescue,Animation,3651,26.2,7182,114.05,195.93,309.98,150,206.65,17.47,2008
+Marley and Me,Fox,63,77,love,Comedy,3480,36.36,10448,143.15,99.56,242.72,55,441.3,66.11,2008
+The Mummy: Tomb of the Dragon Emperor,Universal,14,40,Quest,Action,3760,40.5,10760,102.49,298.64,401.13,145,276.64,27.93,2008
+Journey to the Center of the Earth,Warner Bros,61,55,Quest,Action,2811,21,7477,101.7,140.29,241.99,45,537.76,46.67,2008
+Eagle Eye,Paramount,27,72,pursuit,Action,3510,29.2,8305,101.44,76.63,178.07,80,222.58,36.5,2008
+Step Brothers,Sony,54,68,Comedy,Comedy,3094,30.94,10000,100.47,27.64,128.11,65,197.09,47.6,2008
+You Don't Mess with the Zohan,Sony,36,50,fish out of water,Comedy,3462,38.53,11130,100.02,99.92,199.94,80,249.92,48.16,2008
+Yes Man,Warner Bros,43,72,Transformation,Comedy,3434,18.26,5318,97.69,125.55,223.24,70,318.91,26.09,2008
+"10,000 B.C.",Warner Bros,9,44,Rescue,Adventure,3410,35.9,10518,94.78,175,269.78,105,256.94,34.19,2008
+Beverly Hills Chihuahua,Disney,41,56,Journey and Return,Adventure,3215,29.3,9114,94.51,54.77,149.28,20,746.41,146.5,2008
+High School Musical 3: Senior Year,Disney,65,76,love,Comedy,3623,42.03,11601,90.56,162.35,252.91,11,2299.16,382.09,2008
+Pineapple Express,Sony,68,74,Comedy,Action,3072,23.2,7567,87.34,14.28,101.62,26,390.86,89.23,2008
+Valkyrie,MGM,58,66,Sacrifice,Thriller,2711,21.03,7756,83.08,117.2,200.28,75,267.03,28.04,2008
+21,Sony,35,73,quest,Crime,2648,24.1,9103,81.16,76.77,157.93,35,451.22,68.86,2008
+What Happens in Vegas,Fox,28,72,Love,Comedy,3215,20.17,6274,80.28,139.1,219.38,35,626.79,57.63,2008
+Jumper,Fox,16,50,Rescue,Action,3428,27.4,7980,80.17,142.06,222.23,82.5,269.37,33.21,2008
+Cloverfield,Paramount,77,67,Monster Force,Action,3411,40.1,11744,80.05,90.72,170.76,25,683.05,160.4,2008
+The Curious Case of Benjamin Button,Warner Bros,73,81,love,Fantasy,2988,26.85,8987,127.51,206.42,333.93,160,208.71,16.78,2008
+27 Dresses,Fox,40,71,Love,Comedy,3057,23.01,7526,76.81,83.45,160.26,30,534.19,76.7,2008
+Hellboy II: The Golden Army,Universal,87,70,sacrifice,Action,3204,34.5,10780,75.99,84.4,160.39,82.5,194.41,41.82,2008
+The Day the Earth Stood Still,Fox,19,34,Sacrifice,Thriller,3560,30.5,8562,79.37,153.73,233.09,100,233.09,30.5,2008
+Vantage Point,Sony,35,61,The Riddle,,3149,22.87,7264,72.27,78.9,151.16,40,377.9,57.18,2008
+The Spiderwick Chronicles,Paramount,79,67,fish out of water,Fantasy,3847,19,4940,71.2,91.64,162.84,92.5,176.04,20.54,2008
+Fool's Gold,Warner Bros,11,53,Quest,Adventure,3125,21.6,6909,70.23,41,111.23,72.5,153.42,29.79,2008
+Role Models,Universal,77,75,Discovery,Comedy,2792,19.17,6865,67.29,25.09,92.38,28,329.93,68.46,2008
+The Happening,Fox,19,29,escape,Thriller,2986,30.52,10220,64.51,98.9,163.4,48,340.42,63.58,2008
+Forgetting Sarah Marshall,Independent,85,75,maturation,Comedy,2798,17.73,6791,63.17,42,105.17,30,350.57,59.1,2008
+Burn After Reading,Relativity Media,78,64,Comedy,Comedy,2651,19.13,7215,60.36,103.36,163.72,37,442.48,51.7,2008
+Baby Mama,Independent,63,59,Discovery,Comedy,2543,17.41,6845,60.49,3.67,64.16,70,91.66,24.87,2008
+Seven Pounds,Sony,27,77,Sacrifice,Drama,2758,14.9,5385,69.95,98.22,168.17,55,305.76,27.09,2008
+Step Up 2: The Streets,Disney,26,81,underdog,Drama,2470,18.91,7655,58.02,92.8,150.82,17.5,861.8,108.06,2008
+Saw V,Independent,13,63,Monster Force,Crime,3030,30.1,9822,56.75,57.12,113.86,10.8,1054.29,278.7,2008
+The Strangers,Relativity Media,44,48,Escape,Horror,2466,20.99,8515,52.6,29.79,82.39,9,915.44,233.22,2008
+The Forbidden Kingdom,Relativity Media,64,65,journey & return,Action,3151,21.4,6791,52.08,75.9,127.98,55,232.69,38.91,2008
+The Tale of Despereaux,Universal,54,46,Rescue,Animation,3104,10.1,3255,50.88,36.07,86.95,55,158.09,18.36,2008
+The House Bunny,Sony,39,54,Discovery,Comedy,2714,14.53,5355,48.24,22.21,70.44,25,281.77,58.12,2008
+Nim's Island,Independent,51,50,rescue,Adventure,3513,13.2,3760,48.01,52.07,100.08,37,270.47,35.68,2008
+Australia,Fox,55,69,Fish Out of Water,Adventure,2642,14.8,5602,49.55,161.79,211.34,78,270.95,18.97,2008
+Made of Honor,Sony,13,61,Love,Comedy,2729,14.76,5407,46.01,59.95,105.96,40,264.91,36.9,2008
+College Road Trip,Buena Vista,13,56,comedy,Adventure,2706,13.6,5026,45.61,5.94,51.55,140,36.82,9.71,2008
+The Sisterhood of the Traveling Pants 2,Warner Bros,65,67,Journey and Return,,2707,10.68,3945,44.09,0.26,44.35,27,164.26,39.56,2008
+Speed Racer,Warner Bros,38,61,Quest,Action,3606,18.6,5174,43.95,50,93.95,120,78.29,15.5,2008
+Prom Night,Independent,8,46,escape,Horror,2700,20.81,7705,43.87,13.33,57.2,18,317.76,115.61,2008
+Rambo,Lionsgate,36,70,Rescue,Action,2751,18.2,6617,42.75,70.49,113.24,47.5,238.41,38.32,2008
+"Welcome Home, Roscoe Jenkins",Universal,24,64,discovery,Comedy,2387,16.21,6790,42.44,1.21,43.65,35,124.71,46.31,2008
+Tyler Perry's Meet the Browns,Independent,31,36,Discovery,Drama,2006,20.08,10011,41.98,,41.98,20,209.88,100.4,2008
+Nights in Rodanthe,Warner Bros,31,56,Discovery,Drama,2704,13.42,4962,41.85,42.52,84.37,30,281.25,44.73,2008
+Max Payne,Fox,16,36,Revenge,Action,3376,17.6,5225,40.69,44.73,85.42,35,244.05,50.29,2008
+Righteous Kill,Overture,19,44,The Riddle,Crime,3152,16.3,5168,40.08,38.38,78.46,60,130.77,27.17,2008
+Lakeview Terrace,Sony,46,44,rivalry,Crime,2464,15,6090,39.26,5.39,44.65,20,223.27,75,2008
+Body of Lies,Warner Bros,53,65,Temptation,Action,2710,12.9,4754,39.39,75.7,115.1,67.5,170.51,19.11,2008
+Meet the Spartans,Independent,2,31,comedy,Comedy,2605,18.51,7104,38.23,46.41,84.65,30,282.15,61.7,2008
+Harold and Kumar Escape from Guantanamo Bay,Warner Bros,54,65,escape,Adventure,2510,14.91,5939,38.11,5.38,43.49,12,362.43,124.25,2008
+First Sunday,Sony,13,59,Comedy,Comedy,2213,17.7,8004,37.93,0.87,38.8,13,298.48,136.15,2008
+The Secret Life of Bees,Fox,56,78,Maturation,Drama,1591,10.53,6617,37.77,2.18,39.95,11,363.15,95.73,2008
+Tyler Perry's The Family That Preys,Independent,51,36,Discovery,Drama,2070,17.38,8397,37.11,,37.11,10,371.05,173.8,2008
+Death Race,Universal,42,69,escape,Action,2532,12.62,4985,36.32,39.36,75.68,45,168.17,28.04,2008
+Changeling,Independent,62,84,quest,Drama,1850,9.4,5055,35.74,77.28,113.02,55,205.49,17.09,2008
+Star Wars: The Clone Wars,Independent,19,46,sacrifice,Animation,3452,14.6,4233,35.16,33.12,68.28,8.5,803.32,171.76,2008
+Semi-Pro,Warner Bros,21,41,underdog,Comedy,3121,15.08,4830,33.48,10.41,43.88,2.6,1687.85,580,2008
+Fireproof,Independent,40,51,love,Drama,839,6.84,8148,33.46,0.02,33.47,0.5,6694.4,1368,2008
+Drillbit Taylor,Paramount,26,49,Comedy,Comedy,3056,10.3,3373,32.86,16.83,49.69,40,124.23,25.75,2008
+The Love Guru,Paramount,14,38,Comedy,Comedy,3012,13.91,4617,32.24,8.63,40.86,62,65.91,22.44,2008
+"Definitely, Maybe",Universal,71,72,Discovery,Comedy,2204,9.76,4430,32.24,23.21,55.45,7,792.1,139.43,2008
+Milk,Universal,94,88,quest,Biography,36,1.5,40385,31.84,22.75,54.59,20,272.93,7.5,2008
+Transporter 3,Independent,36,58,escape,Action,2626,12.06,4594,31.72,77.26,108.98,30,363.26,40.2,2008
+Quarantine,Sony,59,46,Monster Force,Horror,2461,14.2,5775,31.69,9.63,41.32,12,344.33,118.33,2008
+Nick and Norah's Infinite Playlist,Sony,73,67,Love,Comedy,2421,11.31,4672,31.49,2.02,33.51,10,335.05,113.1,2008
+The Eye,Lionsgate,22,51,Sacrifice,Horror,2436,12.4,5101,31.42,25.55,56.96,12,474.69,103.33,2008
+Zack and Miri Make a Porno,Weinstein,64,70,Love,Romance,3735,10.07,3680,31.46,10.65,42.1,24,175.43,41.96,2008
+Leatherheads,Universal,52,41,Rivalry,Comedy,2769,12.7,4580,31.37,9.93,41.3,58,71.2,21.9,2008
+Mirrors,Independent,14,49,monster force,Horror,2664,11.2,4190,30.69,46.8,77.49,35,221.39,32,2008
+Space Chimps,Independent,36,37,Transformation,Animation,2511,7.18,2860,30.11,34.73,64.83,37,175.22,19.41,2008
+The Bank Job,Independent,78,74,Quest,Thriller,1603,5.94,3702,30.06,34.76,64.82,20,324.11,29.7,2008
+Untraceable,Independent,14,56,riddle,Thriller,2368,11.4,4795,28.69,23.97,52.66,35,150.45,32.57,2008
+The Women,Warner Bros,13,41,Transformation,Drama,2962,10.12,3415,26.9,23.11,50.01,16,312.54,63.25,2008
+One Missed Call,Warner Bros,0,36,Monster Force,Horror,2240,12.5,5585,26.89,18.96,45.85,20,229.24,62.5,2008
+The Other Boleyn Girl,Independent,41,65,tragedy,Drama,1166,8.2,7035,26.81,50.9,77.71,40,194.28,20.5,2008
+Street Kings,Fox,37,62,The Riddle,Action,2467,12.5,5054,26.42,39.15,65.57,20,327.86,62.5,2008
+Shutter,Fox,7,40,Monster Force,Horror,2753,10.5,3794,25.93,21.95,47.88,8,598.48,131.25,2008
+Superhero Movie,Weinstein,15,36,Comedy,Comedy,2960,9.51,3212,25.88,45.36,71.24,65,109.6,14.63,2008
+W.,Lionsgate,60,42,rivalry,Drama,2030,10.5,5175,25.53,3.97,29.51,25.1,117.55,41.83,2008
+Never Back Down,Summit,23,37,Rivalry,Action,2729,8.6,3152,24.85,16.78,41.63,21,198.22,40.95,2008
+Traitor,Liberty Starz,55,66,Pursuit,Thriller,2054,7.9,3831,23.53,4.13,27.66,22,125.74,35.91,2008
+Vicky Cristina Barcelona,Weinstein,82,73,temptation,Romance,692,3.76,5427,23.22,73.19,96.41,16,602.55,23.5,2008
+Babylon A.D.,Fox,7,32,quest,Action,3390,9.5,2798,22.53,49.58,72.11,45,160.24,21.11,2008
+The X-Files: I Want to Believe,Fox,32,34,monster force,Thriller,3185,10.1,3147,20.98,47.39,68.37,35,195.34,28.86,2008
+Mad Money,Independent,22,51,Comedy,Comedy,2470,7.74,3132,20.67,5.74,26.41,22,120.05,35.18,2008
+Appaloosa,Warner Bros,77,55,Rescue,Action,1045,5,4833,20.21,7.45,27.67,20,138.33,25,2008
+Igor,Independent,36,42,Temptation,Animation,2339,7.8,,19.53,11.22,30.75,30,102.49,26,2008
+My Best Friend's Girl,Lionsgate,14,51,Comedy,Comedy,2604,8.27,3174,19.22,22.4,41.62,20,208.11,41.35,2008
+Doubt,Independent,78,75,riddle,Drama,1267,5.3,4214,33.45,17.46,50.91,25,203.62,21.2,2008
+The Spirit,Lionsgate,14,29,rivalry,Action,2509,6.5,2576,19.81,19.23,39.03,6,650.52,108.33,2008
+Kit Kittredge: An American Girl,Warner Bros,78,26,riddle,Drama,,3.3,,17.66,,17.66,10,176.57,33,2008
+The Ruins,Paramount,46,32,rescue,Horror,2812,8,2846,17.43,5.3,22.73,25,90.91,32,2008
+88 Minutes,Sony,5,51,The Riddle,Drama,2168,7,3209,17.21,15.38,32.59,30,108.64,23.33,2008
+Swing Vote,Disney,36,44,maturation,Comedy,2213,6.23,2815,16.29,1.34,17.63,20,88.17,31.15,2008
+Pride & Glory,Warner Bros,34,54,Temptation,Crime,2585,6.26,2423,15.74,15.41,31.15,30,103.82,20.87,2008
+Bangkok Dangerous,Lionsgate,9,33,pursuit,Action,2650,7.8,2937,15.3,27.19,42.49,45,94.42,17.33,2008
+Disaster Movie,Lionsgate,2,28,Rescue,Comedy,2642,5.8,2209,14.19,20.63,34.82,20,174.08,29,2008
+The Duchess,Paramount,60,68,Love,Drama,,3.3,,13.85,29.46,43.31,13.5,320.78,24.44,2008
+The Haunting of Molly Hartley,Independent,3,22,sacrifice,Horror,2652,5.4,2045,13.56,1.86,15.42,5,308.34,108,2008
+Ghost Town,Paramount,85,60,transformation,Comedy,1505,5.01,3330,13.37,13.71,27.07,20,135.37,25.05,2008
+Religulous,Lionsgate,70,78,comedy,Documentary,502,3.41,6792,13.01,0.63,13.64,2.5,545.52,136.4,2008
+Rachel Getting Married,Independent,85,61,love,Drama,9,0.29,32597,12.8,3.83,16.62,12,138.52,2.42,2008
+The Pirates Who Don't Do Anything,Universal,41,,Fish Out of Water,,,4.25,,12.98,0.17,13.15,15,87.69,28.33,2008
+Under the Same Moon,Weinstein,72,37,Quest,,266,2.8,10412,12.59,10.72,23.31,1.7,1371.24,164.71,2008
+Miss Pettigrew Lives for a Day,Independent,78,70,Love,Comedy,535,2.49,4655,12.31,4.41,16.72,60,27.87,4.15,2008
+Soul Men,Weinstein,45,42,Comedy,Comedy,2044,5.4,2643,12.08,0.25,12.33,0,,,2008
+Meet Dave,Fox,19,42,Fish Out of Water,Adventure,3011,5.25,1744,11.8,38.85,50.65,60,84.42,8.75,2008
+The Longshots,Independent,39,39,Quest,Comedy,2089,4,1953,11.54,0.23,11.77,30,39.22,13.33,2008
+"Be Kind, Rewind",New Line,65,57,Comedy,Comedy,808,4.05,5013,11.18,19.4,30.58,20,152.88,20.25,2008
+Doomsday,Relativity Media,48,47,Quest,Action,1936,4.9,2544,11.01,11.2,22.21,33,67.3,14.85,2008
+Stop-Loss,Paramount,65,27,Tragedy,Drama,1291,4.56,3528,10.92,0.29,11.21,25,44.82,18.24,2008
+Penelope,Summit,52,74,love,Comedy,,3.8,,10.01,11.14,21.16,15,141.03,25.33,2008
+The Express,Independent,62,73,Maturation,Biography,2808,4.56,1625,9.79,0.01,9.81,37.5,26.15,12.16,2008
+Smart People,Independent,50,41,Transformation,Comedy,1106,4.09,3700,9.51,2.33,11.84,7,169.19,58.43,2008
+The Visitor,Independent,92,83,Transformation,Drama,,0.09,,9.43,8.65,18.08,4,451.95,2.25,2008
+The Boy in the Striped Pyjamas,Independent,63,84,Tragedy,Drama,,1.03,,9.05,31.37,40.42,12.5,323.33,8.24,2008
+Sex Drive,Summit,46,61,Journey and Return,Adventure,2421,3.61,1490,8.4,10.35,18.76,19,98.71,19,2008
+Cadillac Records,Sony,67,64,Rags to Riches,Biography,687,3.4,5015,8.2,0.68,8.88,12,73.99,28.33,2008
+Punisher: War Zone,Lionsgate,27,47,Revenge,Action,2508,4.3,1703,8.05,2.05,10.1,35,28.85,12.29,2008
+Miracle at St. Anna,Disney,34,68,quest,Action,1185,3.5,2935,7.92,1.4,9.32,45,20.72,7.78,2008
+City of Ember,Independent,52,48,escape,Adventure,2022,3.13,1548,7.87,10.06,17.93,38,47.18,8.24,2008
+In Bruges,Focus,81,85,Fish Out of Water,Crime,,0.46,,7.8,25.59,33.39,15,222.62,3.07,2008
+Expelled: No Intelligence Allowed,,10,42,comedy,Documentary,1052,2.97,2824,7.72,,7.72,3.5,220.57,84.86,2008
+Over Her Dead Body,New Line,15,47,Love,Comedy,,4.03,,7.56,13.89,21.46,10,214.57,40.3,2008
+Avatar,Fox,83,92,Metamorphosis,Action,3452,77,22313,760.5,2021,2781.5,237,1173.63,32.49,2009
+Transformers: Revenge of the Fallen,Paramount,20,76,Revenge,Action,4234,109,25736,402.1,434.2,836.3,210,398.24,51.9,2009
+Harry Potter and the Half-Blood Prince,Warner Bros,83,75,Quest,Adventure,4325,77.8,17997,302,632,934,250,373.6,31.12,2009
+The Twilight Saga: New Moon,Summit,27,78,Love,Drama,4024,142.8,35497,296.62,413.2,709.82,50,1419.64,285.6,2009
+Up,Disney,98,86,Journey and Return,Animation,3766,68.1,18085,293,438.3,731.3,175,417.89,38.91,2009
+The Hangover,Warner Bros,79,87,Comedy,Comedy,3269,45,13759,277.3,190.16,467.46,35,1335.6,128.57,2009
+Star Trek,Paramount,94,91,Revenge,Action,3849,75.2,19539,257.7,127.95,385.65,140,275.46,53.71,2009
+The Blind Side,Warner Bros,65,90,Rags To Riches,Biography,3110,34.1,10971,255.96,53.24,309.2,29,1066.2,117.59,2009
+Alvin and the Chipmunks: The Squeakquel,Independent,21,59,Comedy,Animation,3700,48.8,13210,219.5,223,440.7,75,587.6,65.07,2009
+Sherlock Holmes,Warner Bros,70,81,The Riddle,Action,3626,62.3,17183,209.02,315,524.02,90,582.24,69.22,2009
+Monsters Vs. Aliens,Paramount,72,65,Monster Force,Animation,4104,59.3,14454,198.4,183.2,381.5,175,218,33.89,2009
+Ice Age: Dawn of the Dinosaurs,Fox,45,72,Quest,Animation,4099,41.7,10171,196.57,690.11,886.68,90,985.2,46.33,2009
+X-Men Origins: Wolverine,Fox,37,72,Revenge,Action,4099,85.1,20751,179.9,193.2,373.1,150,248.73,56.73,2009
+Night at the Museum: Battle of the Smithsonian,Fox,43,60,Quest,Action,4096,54.2,13226,177.2,235.8,413,150,275.33,36.13,2009
+2012,Sony,39,63,Escape,Action,3404,65.3,19165,166.12,603.57,769.69,200,384.84,32.65,2009
+The Proposal,Disney,43,74,Love,Comedy,3056,33.6,11004,163.96,153.42,314.7,40,786.75,84,2009
+Fast and Furious,Universal,28,76,Revenge,Action,3461,70.9,20500,155.1,208,363.1,85,427.18,83.41,2009
+G.I. Joe: The Rise of Cobra,Paramount,33,62,Pursuit,Action,4007,54.7,13654,150.2,152.26,302.1,175,172.63,31.26,2009
+Paul Blart: Mall Cop,Sony,33,50,Comedy,Action,3144,31.8,10125,146.33,36.95,183.28,26,704.92,122.31,2009
+Taken,Fox,58,83,Pursuit,Action,3183,24.7,7765,145,81.8,226.8,25,907.2,98.8,2009
+A Christmas Carol,Disney,52,72,Transformation,Animation,3683,30.1,8159,137.9,187.43,325.33,200,162.67,15.05,2009
+Angels & Demons,Sony,36,65,The Riddle,Mystery,3527,46.2,13100,133.4,352.6,485.9,150,323.93,30.8,2009
+Terminator Salvation,Warner Bros,33,64,Monster Force,Action,3530,42.6,12056,125.3,246.7,372,200,186,21.3,2009
+Cloudy with a Chance of Meatballs,Sony,86,70,Comedy,Animation,3119,30.3,9716,124.9,118.13,243.03,100,243.03,30.3,2009
+Inglourious Basterds,Universal,88,87,Underdog,Adventure,3135,38,12024,120.5,200.91,321.41,70,459.16,54.29,2009
+G-Force,Disney,22,50,Comedy,Action,3697,31.7,8576,119.4,173.38,285.1,150,190.07,21.13,2009
+District 9,Independent,91,81,Metamorphosis,Action,3049,37.4,12251,115.6,95.17,210.77,30,702.57,124.67,2009
+It's Complicated,Universal,56,63,Love,Comedy,2887,22.1,7655,112.73,106.37,219.1,85,257.76,26,2009
+Couples Retreat,Universal,12,47,Comedy,Comedy,3000,34.3,11429,109.2,62.63,171.83,60,286.38,57.17,2009
+Paranormal Activity,Independent,82,56,Monster Force,Horror,760,19.6,25813,107.92,85.44,193.36,,,,2009
+Watchmen,Warner Bros,64,68,Sacrifice,Action,3611,55.2,15291,107.5,77.7,185.3,130,142.54,42.46,2009
+The Princess and the Frog,Disney,84,72,Metamorphosis,Animation,3434,24.2,7050,104.4,162.64,267.04,105,254.32,23.05,2009
+Public Enemies,Universal,67,65,Underdog,Biography,3334,25.2,7580,97.1,117,214.1,100,214.1,25.2,2009
+Julie & Julia,Sony,74,69,Underdog,Biography,2354,20,8508,94.12,32.45,126.57,40,316.43,50,2009
+He's Just Not That Into You,Warner Bros,42,60,Love,Comedy,3175,27.8,8751,93.95,84.89,178.84,25,715.36,111.2,2009
+The Ugly Truth,Independent,14,68,Love,Comedy,2882,27.6,9579,88.9,116.38,205.28,38,540.22,72.63,2009
+Up in the Air,Paramount,90,76,Maturation,Drama,1895,11.2,5947,83.82,116.38,200.2,25,800.81,44.8,2009
+Knowing,Summit,33,50,Escape,Drama,3332,24.6,7384,79.95,103.63,183.58,50,367.16,49.2,2009
+Hannah Montana: The Movie,Disney,44,66,Maturation,Comedy,3118,32.3,10367,79.58,75.97,155.55,35,444.43,92.29,2009
+Where the Wild Things Are,Warner Bros,73,59,Journey and Return,Adventure,3735,32.7,8754,77.23,22.85,100.08,100,100.08,32.7,2009
+Zombieland,Sony,90,87,Monster Force,Action,3036,24.7,8147,75.59,26.8,102.39,23.6,433.86,104.66,2009
+Coraline,Universal,89,77,Journey and Return,Animation,2299,16.8,7329,75.28,49.3,124.58,60,207.63,28,2009
+Law Abiding Citizen,Independent,25,77,Revenge,Crime,2890,21,7280,73.4,53.08,126.48,53,238.64,39.62,2009
+Hotel for Dogs,Paramount,46,57,Comedy,Comedy,3271,17,5201,73,43.97,118.2,35,337.71,48.57,2009
+Michael Jackson's This Is It,Sony,81,82,Tragedy,Documentary,3481,23.3,6675,72.1,189.09,261.19,60,435.32,38.83,2009
+"I Love You, Man",Paramount,83,72,Comedy,Comedy,2711,17.8,6570,71.4,20.2,91.4,40,228.5,44.5,2009
+Obsessed,Sony,20,50,Rivalry,Drama,2514,28.6,11318,68.26,5.56,73.82,20,369.1,143,2009
+Race to Witch Mountain,Buena Vista,42,50,Quest,Action,3187,24.4,7651,67.17,39.21,106.38,50,212.76,48.8,2009
+The Final Destination,Warner Bros,29,52,Escape,Horror,3121,27.4,8782,66.5,119.69,186.19,40,465.47,68.5,2009
+The Taking of Pelham 1 2 3,Sony,51,60,Rescue,Action,3074,23.37,7603,65.45,84.71,150.16,100,150.16,23.37,2009
+Friday the 13th,Paramount,25,52,Monster Force,Horror,3105,40.6,13066,65,26.4,91.4,19,481.05,213.68,2009
+17 Again,Independent,55,70,Maturation,Comedy,3255,23.7,7288,64.2,72.1,136.3,20,681.5,118.5,2009
+The Time Traveler's Wife,Paramount,38,65,Love,Drama,2988,18.6,6233,63.41,37.92,101.33,39,259.82,47.69,2009
+Bruno,Universal,68,48,Comedy,Comedy,2756,30.6,11110,60.1,78.75,130.8,42,311.43,72.86,2009
+Bride Wars,Fox,11,56,Comedy,Comedy,3226,21.1,6528,58.75,55.95,115.15,30,383.83,70.33,2009
+The Haunting in Connecticut,Lionsgate,17,51,Monster Force,Drama,2732,23,8420,55.39,22.13,77.52,30,258.4,76.67,2009
+Ghosts of Girlfriends Past,Warner Bros,27,47,Love,Comedy,3175,15.4,4854,55.25,46.97,102.22,50,204.44,30.8,2009
+Funny People,Universal,68,58,Transformation,Comedy,3007,22.7,7535,51.85,19.73,71.58,75,95.44,30.27,2009
+My Bloody Valentine 3-D,Lionsgate,57,48,Pursuit,Crime,2534,21.2,8383,51.54,49.19,100.73,14,719.49,151.43,2009
+Old Dogs,Buena Vista,5,49,Comedy,Comedy,3425,16.9,4933,49.49,47.26,96.75,35,276.43,48.29,2009
+Land of the Lost,Universal,26,38,Journey and Return,Drama,3521,18.8,5350,49.43,19.34,68.77,100,68.77,18.8,2009
+My Sister's Keeper,Warner Bros,47,73,Escape,Drama,2606,12.4,4774,49.2,46.51,95.71,27.5,348.05,45.09,2009
+Underworld: Rise of the Lycans,Sony,30,68,Rivalry,Action,2942,20.8,7080,45.8,45.55,91.35,35,261,59.43,2009
+Confessions of a Shopaholic,Disney,24,53,Comedy,Comedy,2507,15,6010,44.27,64.05,108.3,70,155,21.43,2009
+The Lovely Bones,Paramount,32,57,Tragedy,Drama,2563,17,6635,44,49.51,93.51,65,143.86,26.15,2009
+Year One,Sony,14,31,Quest,Adventure,3022,19.6,6489,43.33,19.02,62.35,60,103.92,32.67,2009
+The Unborn,Relativity Media,11,39,Monster Force,Horror,2357,19.8,8405,42.67,33.84,76.51,16,478.19,123.75,2009
+Planet 51,Independent,22,45,Comedy,Animation,3035,12.3,4048,42.19,63.45,105.64,70,150.91,17.57,2009
+Drag Me to Hell,Universal,92,61,Monster Force,Horror,2508,15.8,6310,42.1,48.7,90.8,30,302.67,52.67,2009
+Orphan,Warner Bros,55,65,Escape,Horror,2750,12.8,4681,41.59,35.1,76.69,30,255.64,42.67,2009
+Duplicity,Universal,64,38,Rivalry,Romance,2574,14,5425,40.57,37.57,78.14,60,130.23,23.33,2009
+Surrogates,Buena Vista,39,42,Pursuit,Action,2951,14.9,5050,38.57,83.86,122.43,80,153.04,18.63,2009
+Ninja Assassin,Warner Bros,25,57,Revenge,Action,2503,13.3,5320,38.12,23.47,61.59,50,123.18,26.6,2009
+Invictus,Warner Bros,75,74,Underdog,Biography,2125,8.6,4052,37.49,84.74,122.23,60,203.72,14.33,2009
+State of Play,Universal,84,71,The Riddle,Crime,2803,14.1,5020,37.02,50.79,88.3,60,147,23.5,2009
+Notorious,Fox,50,66,Tragedy,Biography,1638,20.5,12514,36.84,7.52,44.36,20,221.8,102.5,2009
+The Pink Panther 2,Sony,12,47,Comedy,Adventure,3243,11.6,3573,35.92,40.02,75.94,59,128.71,19.66,2009
+All About Steve,Fox,6,35,Comedy,Comedy,2251,11.2,4994,33.86,6.26,40.12,15,267.47,74.67,2009
+Halloween II,Independent,20,45,Escape,Horror,3025,16.3,5405,33.39,6.02,39.41,15,262.73,108.67,2009
+The Informant!,Warner Bros,78,42,Comedy,Comedy,2505,10.5,4177,33.31,8.45,41.76,22,189.82,47.73,2009
+The Men Who Stare at Goats,Independent,52,43,Comedy,Comedy,2443,12.7,5201,32.4,36.54,68.94,25,275.76,50.8,2009
+(500) Days of Summer,Fox,87,81,Love,Comedy,817,3.8,4577,32.39,28.33,60.72,7.5,809.6,50.67,2009
+Push,Summit,22,47,Quest,Action,2313,10.1,4358,31.81,17.04,48.85,38,128.55,26.58,2009
+9,Focus,57,58,Sacrifice,Animation,1661,10.7,10398,31.74,16.67,48.41,30,161.37,35.67,2009
+The Soloist,Paramount,56,59,Quest,Drama,2024,9.7,4801,31.7,6.61,38.31,60,63.85,16.17,2009
+Did You Hear About the Morgans?,Sony,12,31,Comedy,Comedy,2718,6.6,2434,29.58,55.7,85.28,58,147.03,11.38,2009
+The Stepfather,Sony,12,48,Rescue,Mystery,2734,11.6,4236,29.1,2.13,31.2,20,156,58,2009
+The Uninvited,Paramount,31,52,Monster Force,Drama,2344,10.3,4405,28.6,13.03,42.7,,,,2009
+Brothers,Lionsgate,61,62,Transformation,Drama,2088,9.5,4563,28.5,14.77,43.27,26,166.42,36.54,2009
+Saw VI,Independent,40,67,Escape,Horror,3036,14.1,4650,27.69,40.5,68.19,11,619.91,128.18,2009
+Dance Flick,Paramount,17,35,Comedy,Action,2450,10.6,4344,25.66,5.77,31.43,25,125.72,42.4,2009
+The Fourth Kind,Universal,18,44,Monster Force,Mystery,2527,12.2,4840,25.48,22.22,47.7,10,477,122,2009
+The International,Sony,58,39,The Riddle,Action,2364,9.3,3947,25.4,34.7,60.1,50,120.2,18.6,2009
+Aliens in the Attic,Fox,30,46,Monster Force,Adventure,3106,8,2578,25.2,32.68,57.88,45,128.62,17.78,2009
+Observe and Report,Warner Bros,51,40,Comedy,Comedy,2727,11,4040,24,2.96,26.96,18,149.78,61.11,2009
+Love Happens,Universal,18,40,Love,Drama,1898,8.05,4245,22.96,13.12,36.08,18,200.44,44.72,2009
+Fame,MGM,25,43,Maturation,Comedy,3096,10,3234,22.46,54.76,77.21,18,428.95,55.56,2009
+Fantastic Mr. Fox,Fox,93,80,Rivalry,Animation,2033,7,3426,21,25.46,46.46,40,116.15,17.5,2009
+Gamer,Lionsgate,29,43,Revenge,Action,2502,9.15,3659,20.53,20.29,40.82,12.5,326.56,73.2,2009
+Nine,Weinstein,37,40,Discovery,Drama,1412,5.45,3862,19.67,34.32,53.99,80,67.49,6.81,2009
+Astro Boy,Summit,49,53,Quest,Animation,3014,6.7,2224,19.55,20.34,39.89,65,61.36,10.31,2009
+The Invention of Lying,Warner Bros,56,47,Love,Comedy,1707,7,4117,18.45,13.95,32.4,18.5,175.14,37.84,2009
+Inkheart,Warner Bros,39,51,Quest,Adventure,2655,7.6,2862,17.3,45.14,62.44,60,104.07,12.67,2009
+Fired Up!,Independent,22,52,Comedy,Comedy,1810,5.5,3030,17.2,1.37,18.6,20,93,27.5,2009
+The Hurt Locker,Independent,97,83,Quest,Drama,4,0.14,36338,17.01,32.21,49.22,15,328.13,0.93,2009
+Jennifer's Body,Fox,42,37,Monster Force,Comedy,2702,6.9,2542,16.2,15.35,31.55,16,197.19,43.13,2009
+Imagine That,Paramount,38,44,Comedy,Comedy,3008,5.5,1830,16.12,6.86,22.99,55,41.8,10,2009
+Adventureland,Miramax,89,56,Maturation,Comedy,1862,5.7,3073,16.04,1.12,17.16,9.8,175.1,58.16,2009
+Armored,Sony,40,34,Temptation,Action,1915,6.5,3400,15.99,6.95,16,20,80,32.5,2009
+A Perfect Getaway,Universal,61,50,Escape,Mystery,2159,5.9,2755,15.5,7.33,22.83,14,163.07,42.14,2009
+The Box,Warner Bros,46,27,Temptation,Drama,2635,7.6,2873,15.1,18.28,33.38,30,111.27,25.33,2009
+I Love You Beth Cooper,Fox,14,38,Comedy,Comedy,1856,4.9,2648,14.8,1.02,15.82,18,87.89,27.22,2009
+Amelia,Independent,21,35,Quest,Adventure,820,3.9,4761,14.25,5.4,19.2,40,48,9.75,2009
+Cirque du Freak: The Vampire's Assistant,Universal,38,50,Discovery,Action,2754,6.3,2285,13.87,25.36,39.23,40,98.08,15.75,2009
+Crank: High Voltage,Lionsgate,62,54,Pursuit,Action,2223,7,3133,13.7,20.8,34.5,12.9,267.44,54.26,2009
+Whip It,Independent,84,73,Maturation,Drama,1721,4.7,2702,13,3.59,16,15,106.67,31.33,2009
+An Education,Sony,94,78,Maturation,Drama,761,0.76,1003,12.57,13.52,26.09,7.5,347.87,10.13,2009
+12 Rounds,Fox,30,52,Rescue,Action,2331,5.3,2286,12.23,5.05,17.28,20,86.38,26.5,2009
+Sunshine Cleaning,Independent,72,59,Transformation,Comedy,642,0.9,1527,12.06,4.51,16.57,5,331.4,18,2009
+Sorority Row,Summit,22,38,Pursuit,Horror,2665,5.1,1899,11.97,15.24,27.21,12.5,217.68,40.8,2009
+Extract,Miramax,62,37,Comedy,Comedy,1611,4.3,2694,10.8,0.03,10.83,7.5,144.33,57.33,2009
+Not Easily Broken,Independent,34,66,Love,Drama,724,5.3,7340,10.6,0.14,10.7,5,214,106,2009
+Pandorum,Independent,28,49,Monster Force,Action,2506,4.4,1765,10.3,10.31,17,40,42.5,11,2009
+Whiteout,Warner Bros,7,28,Pursuit,Action,2745,4.9,1791,10.28,7.57,12.2,35,34.86,14,2009
+Next Day Air,Summit,21,27,Comedy,Action,1138,4.1,3613,10,0.15,10,3,333.33,136.67,2009
+Away We Go,Focus,67,74,Discovery,Comedy,4,0.13,32603,9.45,5.44,14.89,21,70.9,0.62,2009
+Dragonball Evolution,Fox,15,28,Quest,Action,2181,4.8,2181,9.36,48.13,58.23,30,194.1,16,2009
+A Serious Man,Universal,89,64,Love,Drama,6,0.25,41890,9.23,22.2,31.43,7,448.99,3.57,2009
+Everybody's Fine,Miramax,46,55,Discovery,Drama,2133,3.9,1806,9.2,7.2,16.4,21,78.1,18.57,2009
+Street Fighter: The Legend of Chun-Li,Fox,16,28,Revenge,Action,1136,4.7,4156,8.74,4.02,12.34,50,24.68,9.4,2009
+My Life in Ruins,Independent,9,43,Comedy,Comedy,1164,3.2,2769,8.67,11.79,18.01,17,106,18.82,2009
+"Pirate Radio (The Boat that Rocked, UK)",Focus,60,72,Comedy,Comedy,882,2.9,3293,8.01,28.33,36.34,50,72.68,5.8,2009
+The Road,Weinstein,75,65,Quest,Adventure,111,1.5,13534,8.12,19.51,27.63,25,110.51,6,2009
+Taking Woodstock,Focus,48,48,Quest,Comedy,1393,3.5,2482,7.46,2.52,9.98,29,34.4,12.07,2009
+Post Grad,Fox,7,31,Maturation,Comedy,1959,2.6,1354,6.38,0.03,6.38,15,42.53,17.33,2009
+Whatever Works,Independent,50,63,Discovery,Comedy,9,0.26,29574,5.3,29.79,35.09,15,233.94,1.73,2009
+Bandslam,Summit,79,60,Maturation,Comedy,2121,2.2,1052,5.2,7.01,12.1,20,61,11,2009
+127 Hours,Independent,93,84,Escape,Adventure,916,2.13,2333,18.33,42.4,60.73,18,337.39,11.83,2010
+A Nightmare on Elm Street,Warner Bros,13,40,Monster Force,Horror,3332,32.9,9875,63.08,52.59,115.67,35,330.49,94,2010
+Alice in Wonderland,Disney,52,72,Journey and Return,Adventure,3728,116.1,31143,334.19,691.28,1025.466,200,512.73,58.05,2010
+All About Steve,Independent,6,35,Comedy,Comedy,2251,11.2,4994,33.86,6.26,40.12,15,267.47,74.67,2010
+Alpha and Omega,Crest,17,41,Journey and Return,Animation,2625,9.1,3469,25.11,25.4,50.507,20,252.54,45.5,2010
+Black Swan,Fox,88,86,Wretched Excess,Drama,959,8.38,8742,106.95,222.44,329.397,13,2533.82,64.46,2010
+Brooklyn's Finest,Independent,42,47,Temptation,Action,1936,13.4,6896,27.16,9.28,36.439,17,214.35,78.82,2010
+Buried,Independent,86,63,Escape,Drama,11,0.103,9115,1.04,18.11,19.148,2,957.4,5.15,2010
+Burlesque,Paramount,36,66,Rags to Riches,Drama,3037,11.95,3934,39.44,50.08,89.519,55,162.76,21.73,2010
+Case 39,Independent,23,42,Monster Force,Horror,2211,5.4,2420,13.26,14.93,28.19,26,108.42,20.77,2010
+Cats & Dogs: The Revenge of Kitty Galore,Independent,13,43,Pursuit,Action,3705,12.3,3314,43.59,68.9,112.49,85,132.34,14.47,2010
+Charlie St. Cloud,Universal,27,62,Discovery,Fantasy,2718,12.4,4555,31.16,17.03,48.188,44,109.52,28.18,2010
+City Island,Independent,81,77,Transformation,Comedy,2,0.032,16000,6.67,1.2,7.874,6,131.23,0.53,2010
+Clash of the Titans,Warner Bros,28,48,Quest,Action,3777,61.2,16213,163.21,330,493.214,125,394.57,48.96,2010
+Conviction,Independent,68,71,Rescue,Biography,672,1.62,2424,6.79,2.92,9.71,12.5,77.68,12.96,2010
+Cop Out,Warner Bros,19,45,The Riddle,Action,3150,18.21,5781,44.88,10.71,55.588,30,185.29,60.7,2010
+Country Strong,Sony,20,56,Rags to Riches,Drama,1424,7.33,5145,20.22,0.31,20.528,15,136.85,48.87,2010
+Cyrus,Independent,80,51,Rivalry,Comedy,4,0.18,45429,7.47,2.45,9.92,7,141.71,2.57,2010
+Date Night,Fox,66,58,Pursuit,Comedy,3374,25.2,7471,98.71,53.55,152.263,55,276.84,45.82,2010
+Daybreakers,Lionsgate,67,50,Discovery,Action,2523,15.1,6003,30.1,21.31,51.41,20,257.05,75.5,2010
+Dear John,Sony,29,66,Love,Drama,2969,30.4,10262,80.01,34.96,114.97,25,459.88,121.6,2010
+Death at a Funeral,Independent,40,48,Comedy,Comedy,2459,16.2,6595,42.74,6.31,49.05,21,233.57,77.14,2010
+Despicable Me,Universal,81,81,Maturation,Animation,3476,56.4,16225,251.51,291.6,543.113,69,787.12,81.74,2010
+Devil,Independent,52,45,Monster Force,Horror,2809,12.3,4375,33.6,29.09,62.694,10,626.94,123,2010
+Diary of a Wimpy Kid,Independent,53,49,Underdog,Comedy,3077,22.1,7191,64,11.7,75.7,15,504.67,147.33,2010
+Dinner for Schmucks,Paramount,43,47,Comedy,Comedy,2911,23.5,8082,73.03,13.83,86.855,69,125.88,34.06,2010
+Due Date,Warner Bros,40,56,Comedy,Comedy,3355,32.69,9743,100.54,111.24,211.78,50,423.56,65.38,2010
+Easy A,Sony,85,75,Maturation,Comedy,2856,17.7,6209,58.4,16.55,74.95,8,936.88,221.25,2010
+Eat Pray Love,Sony,36,46,Journey and Return,Drama,3082,23.1,7497,80.57,124.02,204.59,60,340.98,38.5,2010
+Edge of Darkness,Warner Bros,55,56,Revenge,Crime,3066,17.2,5615,43.31,37.81,81.12,80,101.4,21.5,2010
+Extraordinary Measures,CBS,27,55,Underdog,Drama,2549,6,2359,12.07,3.07,15.14,31,48.84,19.35,2010
+Faster,CBS,41,50,Revenge,Action,2454,8.52,3873,23.24,12.39,35.626,24,148.44,35.5,2010
+For Colored Girls,Independent,33,73,Discovery,Drama,2127,19.5,9167,37.73,17.32,55.049,21,262.14,92.86,2010
+From Paris with Love,Independent,38,57,Pursuit,Action,2722,8.2,2997,24.08,28.75,52.829,52,101.59,15.77,2010
+Furry Vengeance,Summit,8,36,Comedy,Comedy,2997,6.6,2211,17.63,18.61,36.236,35,103.53,18.86,2010
+Get Him to the Greek,Universal,73,63,Comedy,Comedy,2697,17.6,6515,60.97,30.29,91.257,40,228.14,44,2010
+Going the Distance,Warner Bros,53,56,Love,Comedy,3030,6.9,2272,17.8,24.25,42.05,32,131.41,21.56,2010
+Green Zone,Universal,53,60,Quest,Action,3003,14.3,4765,35.05,59.83,94.878,100,94.88,14.3,2010
+Greenberg,Independent,75,40,Transformation,Comedy,3,0.11,39384,4.23,1.92,6.15,,,,2010
+Grown Ups,Independent,10,59,Comedy,Comedy,3534,40.5,11462,162,109.43,271.43,80,339.29,50.63,2010
+Gulliver's Travels,Fox,21,31,Journey and Return,Comedy,2546,6.3,2477,42.78,194.6,237.382,112,211.95,5.63,2010
+Harry Potter and the Deathly Hallows Part 1,Warner Bros,79,87,Quest,Adventure,4125,125,30307,295,664.3,959.3,125,767.44,100,2010
+Hot Tub Time Machine,MGM,64,57,Journey and Return,Adventure,2754,14,5091,50.29,14.28,64.571,36,179.36,38.89,2010
+How to Train Your Dragon,Paramount,98,90,Underdog,Animation,4055,43.7,10785,217.58,277.3,494.88,165,299.93,26.48,2010
+I Love You Phillip Morris,Independent,71,57,Love,Comedy,100,0.11,,2.04,18.69,20.722,15,138.15,0.73,2010
+Inception,Warner Bros,86,93,Journey and Return,Action,3792,62.8,16557,292.58,532.96,825.536,160,515.96,39.25,2010
+Iron Man 2,Paramount,74,80,Rivalry,Action,4380,128.1,29252,312.43,311.5,623.93,200,311.97,64.05,2010
+Jackass 3-D,Paramount,63,72,Comedy,Documentary,3081,50.4,16343,117.23,54.46,171.685,20,858.43,252,2010
+Jonah Hex,Warner Bros,13,24,Revenge,Action,2825,5.4,1904,10.55,0.36,10.91,47,23.21,11.49,2010
+Just Wright,Fox,45,58,Love,Comedy,1831,8.3,4525,21.54,0.03,21.569,12,179.74,69.17,2010
+Kick-Ass,Independent,76,83,Rivalry,Action,3065,19.8,6469,48.07,48.12,96.188,30,320.63,66,2010
+Killers,Lionsgate,11,45,Love,Action,2859,15.8,5539,47.06,51.1,98.16,75,130.88,21.07,2010
+Knight and Day,Fox,53,52,Pursuit,Action,3098,20.2,6501,76.42,185.51,261.927,117,223.87,17.26,2010
+Leap Year,Universal,21,49,Love,Comedy,2511,9.2,3665,25.92,6.69,32.608,19,171.62,48.42,2010
+Legend of the Guardians: The Owls of Ga'Hoole,Warner Bros,51,65,Rivalry,Animation,3575,16.1,4507,55.68,84.4,140.073,80,175.09,20.13,2010
+Legion,Independent,19,36,Monster Force,Action,2476,17.5,7069,40.17,27.75,67.92,26,261.23,67.31,2010
+Letters to Juliet,Summit,40,62,Love,Comedy,2968,13.5,4562,53.03,26.15,79.179,30,263.93,45,2010
+Life as We Know It,Independent,28,62,Love,Comedy,3150,14.5,4605,53.13,43.03,53.374,52,102.1,27.74,2010
+Little Fockers,Independent,9,40,Comedy,Comedy,3536,30.83,8720,148.44,162.21,310.649,100,310.65,30.83,2010
+Love & Other Drugs,Fox,48,55,Love,Comedy,2455,9.74,3967,32.37,70.44,102.802,30,342.67,32.47,2010
+MacGruber,Independent,47,33,Comedy,Action,2551,4,1585,8.53,0.8,9.327,10,93.27,40,2010
+Machete,Independent,73,66,Revenge,Action,2670,11,4276,26.59,17.5,44.089,20,220.45,55,2010
+Marmaduke,Fox,9,46,Rivalry,Comedy,3213,11.6,3610,33.64,50.12,83.757,50,167.51,23.2,2010
+Megamind,Paramount,72,73,Transformation,Animation,3944,46.02,11668,148.42,173.47,321.884,130,247.6,35.4,2010
+Morning Glory,Independent,54,54,Comedy,Comedy,2518,9.2,3655,31.01,29.03,60.039,40,150.1,23,2010
+My Soul to Take,Relativity Media,9,29,Monster Force,Horror,2572,6.84,2660,14.74,6.23,20.971,25,83.88,27.36,2010
+Nanny McPhee Returns,Universal,77,54,Comedy,Comedy,2784,8.4,3020,29.01,64.23,93.24,35,266.4,24,2010
+Never Let Me Go,Independent,70,70,Tragedy,Drama,4,0.11,,2.43,7.02,9.45,15,63,0.73,2010
+Our Family Wedding,Independent,14,49,Love,Comedy,1605,7.6,4754,20.26,1.15,21.413,,,,2010
+Paranormal Activity 2,Paramount,,,Monster Force,Horror,3216,40.67,12649,84.75,92.76,177.511,3,5917.03,1355.67,2010
+Percy Jackson & the Olympians: The Lightning Thief,Fox,50,57,Rivalry,Action,3356,31.2,9308,88.77,137.73,226.5,95,238.42,32.84,2010
+Piranha 3-D,Weinstein,74,45,Monster Force,Comedy,2470,10.1,4092,25,58.19,83.188,24,346.62,42.08,2010
+Please Give,Sony,88,62,Comedy,Comedy,,0.1,,4.03,0.28,4.309,3,143.63,3.33,2010
+Predators,Fox,64,52,Monster Force,Action,2669,24.8,9277,52,75.23,127.232,40,318.08,62,2010
+Prince of Persia: The Sands of Time,Disney,36,71,Rivalry,Action,3646,30,8254,90.76,245.61,336.365,200,168.18,15,2010
+Red,Summit,71,72,Rivalry,Action,3255,21.8,6686,90.38,108.63,199.006,58,343.11,37.59,2010
+Remember Me,Summit,28,70,Love,Drama,2212,8,3657,19.07,36.96,56.034,16,350.21,50,2010
+Repo Men,Universal,22,43,Rescue,Action,2521,6.1,2430,13.79,4.62,18.41,32,57.53,19.06,2010
+Resident Evil: Afterlife,Highlight Communications,24,53,Monster Force,Action,3203,26.7,8320,60.13,236.09,296.22,60,493.7,44.5,2010
+Robin Hood,Universal,42,59,Rivalry,Action,3503,36,10295,105.27,216.4,321.669,200,160.83,18,2010
+Salt,Sony,62,62,Revenge,Action,3612,36,9970,118.31,175.19,293.502,110,266.82,32.73,2010
+Saw 3-D,Independent,10,47,Escape,Crime,2808,22.53,8024,45.71,90.44,136.15,20,680.75,112.65,2010
+Scott Pilgrim vs. the World,Universal,81,83,Underdog,Action,2818,10.6,3765,31.52,16.14,47.66,60,79.43,17.67,2010
+Sex and the City 2,Warner Bros,15,49,Love,Comedy,3445,31,8999,95.35,193,288.347,100,288.35,31,2010
+She's Out of My League,Paramount,57,60,Love,Comedy,2956,9.8,3307,32.01,17.77,49.778,20,248.89,49,2010
+Shrek Forever After,Paramount,57,64,Journey and Return,Animation,4359,70.8,16251,238.74,513.86,752.604,165,456.12,42.91,2010
+Shutter Island,Paramount,68,73,The Riddle,Drama,2991,41,13729,128.01,166.79,294.802,80,368.5,51.25,2010
+Skyline,Independent,16,19,Monster Force,Action,2880,11.69,4060,21.39,45.43,66.817,10,668.17,116.9,2010
+Solitary Man,Independent,81,47,Wretched Excess,Comedy,4,0.09,23734,4.36,0.82,5.178,15,34.52,0.6,2010
+Step Up 3D,Summit,46,67,Transformation,Drama,2435,15.8,6494,42.4,116.89,159.291,30,530.97,52.67,2010
+Stone,Independent,49,20,Rivalry,Drama,6,0.075,12628,1.81,7.67,9.479,22,43.09,0.34,2010
+Takers,Sony,27,57,Rivalry,Action,2206,20.5,9298,57.74,11.31,69.05,32,215.78,64.06,2010
+Tangled,Disney,89,88,Love,Animation,3603,48.77,13535,200.82,390.97,591.794,260,227.61,18.76,2010
+The A-Team,Fox,47,71,Pursuit,Action,3535,25.7,7262,77.22,100.02,177.236,100,177.24,25.7,2010
+The American,Universal,66,37,Rivalry,Crime,2823,13.1,4668,35.61,32.27,67.875,20,339.38,65.5,2010
+The Back-up Plan,CBS,20,47,Love,Comedy,3280,12.2,3720,37.49,39.99,77.477,35,221.36,34.86,2010
+The Book of Eli,Independent,48,68,Quest,Action,3111,32.7,10540,94.84,62.27,157.107,80,196.38,40.88,2010
+The Bounty Hunter,Sony,7,41,Rivalry,Action,3074,20.7,6729,67.06,69.27,136.333,40,340.83,51.75,2010
+The Chronicles of Narnia: The Voyage of the Dawn Treader,Fox,49,63,Quest,Adventure,3555,24,6752,104.39,311.3,415.685,155,268.18,15.48,2010
+The Crazies,Liberty Starz,72,54,Monster Force,Horror,2476,16.07,6489,39.12,15.68,54.803,20,274.02,80.35,2010
+The Expendables,Independent,40,58,Pursuit,Action,3270,34.8,10650,103.07,171.4,274.469,82,334.72,42.44,2010
+The Fighter,Paramount,91,88,Underdog,Drama,2503,12,4848,93.62,35.54,129.154,25,516.62,48,2010
+The Ghost Writer,Summit,83,68,The Riddle,Mystery,819,2,2520,15.54,44.68,60.22,45,133.82,4.44,2010
+The Joneses,Independent,61,47,Temptation,Comedy,,0.51,,1.48,0.49,1.97,10,19.7,5.1,2010
+The Karate Kid,Sony,66,75,Underdog,Action,3663,55.7,15197,176.59,182.53,359.12,40,897.8,139.25,2010
+The Kids Are All Right,Independent,94,72,Comedy,Comedy,847,3.5,4162,20.81,13.89,34.704,4,867.6,87.5,2010
+The King's Speech,Independent,95,93,Maturation,Biography,700,4.4,6406,138.79,275.41,414.204,15,2761.36,29.33,2010
+The Last Airbender,Paramount,6,42,Quest,Action,3169,40.3,12725,131.77,187.94,319.713,150,213.14,26.87,2010
+The Last Exorcism,Independent,73,32,Monster Force,Drama,2874,20.4,7087,41.03,26.7,67.733,1.8,3762.94,1133.33,2010
+The Last Song,Disney,19,66,Discovery,Drama,2673,16,5989,62.95,26.09,89.04,20,445.2,80,2010
+The Losers,Warner Bros,47,55,Revenge,Action,2936,9.4,3204,23.59,5.79,29.38,25,117.52,37.6,2010
+The Next Three Days,Lionsgate,51,66,Rescue,Crime,2564,6.54,2552,21.15,46.3,67.45,30,224.83,21.8,2010
+The Other Guys,Sony,78,57,Comedy,Action,3651,35.5,9735,119.22,51.21,170.431,100,170.43,35.5,2010
+The Runaways,Independent,68,56,Maturation,Biography,244,0.8,3300,3.57,1.11,4.677,10,46.77,8,2010
+The Social Network,Sony,96,89,Rags to Riches,Biography,2771,22.4,8100,96.96,127.96,224.919,50,449.84,44.8,2010
+The Sorcerer's Apprentice,Disney,42,57,Pursuit,Action,3504,17.6,5028,63.15,152.13,215.28,150,143.52,11.73,2010
+The Spy Next Door,Relativity Media,13,46,Rivalry,Action,2924,9.7,3326,24.31,20.93,45.239,,,,2010
+The Switch,Independent,52,44,Comedy,Comedy,2012,8.4,4193,27.78,22.05,49.831,19,262.27,44.21,2010
+The Tourist,Sony,20,44,Love,Thriller,2756,16,5977,67.63,210.72,278.346,100,278.35,16,2010
+The Town,Warner Bros,94,83,Rivalry,Crime,2856,23.8,8322,92.19,61.84,154.025,37,416.28,64.32,2010
+The Twilight Saga: Eclipse,Summit,50,74,Monster Force,Drama,4468,64.8,14510,300.53,397.96,698.489,68,1027.19,95.29,2010
+The Wolfman,Universal,33,38,Monster Force,Drama,3222,31.5,9770,61.98,77.81,139.79,150,93.19,21,2010
+Tooth Fairy,Fox,16,46,Comedy,Comedy,3344,14,4190,60.02,52.44,112.46,48,234.29,29.17,2010
+Toy Story 3,Disney,99,91,Rescue,Animation,4028,110.3,27385,415,648.16,1063.16,200,531.58,55.15,2010
+Tron: Legacy,Independent,50,67,Fish Out Of Water,Action,3451,44.03,12578,172.06,228,400.062,170,235.33,25.9,2010
+True Grit,Paramount,96,86,Revenge,Adventure,3047,24,8149,171.24,81.03,252.273,38,663.88,63.16,2010
+Unstoppable,Fox,86,73,Rescue,Action,3207,22.69,7075,81.56,86.24,167.802,95,176.63,23.88,2010
+Valentine's Day,Warner Bros,17,54,Love,Comedy,3655,56.2,15351,110.49,106,216.485,52,416.32,108.08,2010
+Vampires Suck,Independent,4,32,Comedy,Comedy,3233,12.2,3774,36.66,43.89,80.546,20,402.73,61,2010
+Wall Street: Money Never Sleeps,Independent,54,43,Rivalry,Drama,3565,19,5333,52.47,82.27,134.743,70,192.49,27.14,2010
+When in Rome,Disney,15,44,Love,Comedy,2456,12.3,5029,32.68,10.36,43.04,,,,2010
+Why Did I Get Married Too?,Lionsgate,27,67,Comedy,Comedy,2155,29.3,13591,60.09,0.58,60.67,20,303.35,146.5,2010
+Yogi Bear,,14,36,,Comedy,3515,16.4,4669,100.25,101.34,201.584,80,251.98,20.5,2010
+You Again,Independent,18,45,Comedy,Comedy,2548,8.4,3300,25.7,6.3,32.003,20,160.02,42,2010
+You Will Meet a Tall Dark Stranger,Independent,43,35,Love,Comedy,402,0.16,,3.24,31.03,34.267,22,155.76,0.73,2010
+Youth in Revolt,Weinstein,68,52,Love,Comedy,1873,6.9,3678,15.28,4.37,19.649,18,109.16,38.33,2010
+30 Minutes or Less,Independent,43,48,Comedy,Comedy,2888,13.33,4616,37.05,3.49,40.55,28,144.81,47.61,2011
+50/50,Independent,93,93,Discovery,Comedy,2458,8.64,3517,35.01,4.17,39.19,8,489.84,108,2011
+A Dangerous Method,Independent,79,89,Love,Drama,,0.17,,5.7,21.76,27.46,20,137.31,0.85,2011
+A Very Harold and Kumar Christmas,Lionsgate,72,71,Comedy,Comedy,2875,12.95,4506,35.06,0.33,35.39,19,186.25,68.16,2011
+Abduction,Vertigo,4,46,Maturation,Action,3118,10.93,3504,28.09,54,82.09,35,234.53,31.23,2011
+Anonymous,Relativity Media,46,66,Tragedy,Drama,265,1.02,3856,4.46,10.93,15.39,30,51.31,3.4,2011
+Another Earth,Independent,63,74,Temptation,Fantasy,,0.08,,1.32,0.45,1.77,0.2,885.5,40,2011
+Apollo 18,Weinstein,23,31,Monster Force,Horror,3328,8.7,2615,17.69,7.88,25.56,5,511.24,174,2011
+Arthur,Warner Bros,26,49,Sacrifice,Comedy,3276,12.22,3731,33.04,12.7,45.74,40,114.34,30.55,2011
+Arthur Christmas,Aardman Animations,92,82,Journey and Return,Animation,3376,12.07,3537,46.46,100.95,147.41,150,98.27,8.05,2011
+Average,,55,62,,,2733,22,8502,69,110,175,57,306.6,38.6,2011
+Bad Teacher,Independent,44,38,Comedy,Comedy,3049,31.6,10365,100.29,115.9,216.2,20,1080.98,158,2011
+Battle: Los Angeles,Relativity Media,35,50,Monster Force,Action,3417,35.57,10411,83.55,128.27,211.82,70,302.6,50.81,2011
+Beastly,CBS,19,50,Metamorphosis,Romance,1952,9.85,5047,27.87,15.3,43.17,17,253.91,57.94,2011
+Beginners,Independent,84,80,Love,Comedy,5,0.14,28268,5.79,8.52,14.31,3.2,447.19,4.38,2011
+Bridesmaids,Relativity Media,90,77,Rivalry,Comedy,2918,26.25,8995,169.11,119.28,288.38,32.5,887.33,80.77,2011
+Captain America: The First Avenger,Disney,78,75,Metamorphosis,Action,3715,65.06,17512,176.65,193.92,370.57,140,264.69,46.47,2011
+Cars 2,Pixar,38,56,Fish Out Of Water,Animation,4115,66.14,16072,191.45,368.4,559.85,200,279.93,33.07,2011
+Cedar Rapids,Fox,86,61,Maturation,Comedy,15,0.3,20198,6.86,,6.86,10,68.61,3,2011
+Colombiana,Sony,28,55,Revenge,Action,2614,10.41,3982,36.67,24.3,60.97,40,152.41,26.03,2011
+Conan the Barbarian,Lionsgate,22,34,Quest,Action,3015,10.02,3324,21.3,27.5,48.8,90,54.22,11.13,2011
+Contagion,Warner Bros,84,63,The Riddle,Thriller,3222,22.4,6935,75.66,59.8,135.46,60,225.76,37.33,2011
+Cowboys and Aliens,Universal,44,50,Monster Force,Action,3750,36.43,9715,100.24,74.58,174.82,163,107.25,22.35,2011
+"Crazy, Stupid, Love",Warner Bros,78,81,Discovery,Romance,3020,19.1,6326,84.35,58.5,142.85,50,285.7,38.2,2011
+Diary of a Wimpy Kid 2: Rodrick Rules,Fox,47,63,Comedy,Comedy,3167,23.75,7500,52.7,19.72,72.42,21,344.84,113.1,2011
+Dolphin Tale,Independent,84,81,Quest,Drama,3507,19.15,5461,72.29,23.12,95.41,37,257.86,51.76,2011
+Don't Be Afraid Of The Dark,Miramax,59,37,Monster Force,Horror,2760,8.53,3089,24.05,12.95,36.99,25,147.97,34.12,2011
+Dream House,Morgan Creek,7,38,The Riddle,Horror,2661,8.13,3055,21.3,17.2,38.5,50,77,16.26,2011
+Drive,Independent,93,79,Rivalry,Thriller,2886,11.34,3929,35.06,41.11,76.17,15,507.83,75.6,2011
+Drive Angry,Independent,45,38,Rescue,Action,2290,5.19,2265,10.72,18.21,28.93,45,64.29,11.53,2011
+Dylan Dog: Dead of Night,Independent,6,28,Monster Force,Horror,,0.75,,1.19,3.45,4.63,20,23.17,3.75,2011
+Everything Must Go,Reliance,74,53,Discovery,Drama,218,0.79,3652,2.71,,2.71,5,54.22,15.8,2011
+Extremely Loud and Incredibly Close,Warner Bros,47,62,,Drama,2630,10.04,3820,31.847,23.4,55.247,40,138.12,25.1,2011
+Fast Five,Universal,78,83,Escape,Action,3644,86.19,23655,209.4,416.3,626.13,125,500.9,68.95,2011
+Final Destination 5,New Line,61,56,Monster Force,Horror,3155,18.03,5715,42.59,115.3,157.89,40,394.72,45.08,2011
+Footloose,Spyglass Entertainment,71,71,Transformation,Drama,3549,15.56,4383,51.8,11.74,63.54,24,264.76,64.83,2011
+Friends With Benefits,Warner Bros,71,68,Temptation,Romance,2926,18.62,6364,55.8,93.74,149.54,35,427.26,53.2,2011
+Fright Night,DreamWorks,75,68,Rivalry,Horror,3114,7.71,2477,18.3,22.7,41,30,136.67,25.7,2011
+Gnomeo and Juliet,Disney,56,52,Love,Animation,2994,25.36,8469,99.97,94,193.97,36,538.8,70.44,2011
+Green Lantern,Warner Bros,27,48,Metamorphosis,Action,3816,53.17,13935,116.6,103.25,219.85,200,109.93,26.59,2011
+Hall Pass,Warner Bros,35,44,Temptation,Comedy,2950,13.54,4588,45.06,38.1,83.16,36,231,37.61,2011
+Hanna,Universal,71,67,Quest,Action,2535,12.37,4880,40.26,23.52,63.78,30,212.6,41.23,2011
+Happy Feet 2,Village Roadshow,41,59,Journey and Return,Animation,3606,21.24,5889,64.01,86.4,150.41,135,111.41,15.73,2011
+Harry Potter and the Deathly Hallows Part 2,Warner Bros,96,92,Rivalry,Fantasy,4375,169.19,38672,381.01,960.5,1341.51,125,1073.21,135.35,2011
+Hop,Relativity Media,26,50,Fish Out Of Water,Animation,3579,37.54,10490,108.09,75.87,183.95,63,291.99,59.59,2011
+Horrible Bosses,Warner Bros,69,72,Revenge,Comedy,3040,28.3,9310,117.54,92.1,209.64,35,598.97,80.86,2011
+Hugo,Paramount,93,84,,Adventure,1277,11.36,8899,73.864,111.905,185.769,150,123.85,7.57,2011
+I Am Number Four,Paramount,32,57,Maturation,Thriller,3154,19.45,6167,55.1,94.78,149.88,60,249.8,32.42,2011
+Immortals,Relativity Media,36,59,Revenge,Action,3112,32.21,10349,83.5,143.4,226.9,75,302.54,42.95,2011
+In Time,Regency Enterprises,38,55,The Riddle,Thriller,3122,12.05,3860,37.52,136.41,173.93,40,434.83,30.13,2011
+Insidious,Sony,67,65,Monster Force,Horror,2408,13.27,5511,54.01,43,97.01,1.5,6467.27,884.67,2011
+J.Edgar,Warner Bros,42,84,Wretched Excess,Drama,1910,11.22,5873,37.31,47.3,84.61,35,241.73,32.06,2011
+Jack and Jill,Happy Madison,4,59,Comedy,Comedy,3438,25,7273,74.16,75.52,149.68,79,189.47,31.65,2011
+Johnny English Reborn,Relativity Media,38,55,Comedy,Comedy,1552,3.83,2470,8.31,151.77,160.08,45,355.73,8.51,2011
+Just Go With It,Happy Madison,19,63,Comedy,Romance,3548,30.51,8601,103.03,111.92,214.95,80,268.68,38.14,2011
+Killer Elite,Independent,25,48,Rivalry,Action,2986,9.35,3132,25.12,31.26,56.38,70,80.55,13.36,2011
+Kung Fu Panda 2,DreamWorks,82,80,Rivalry,Animation,3925,47.66,12142,165.25,500.44,665.69,150,443.79,31.77,2011
+Larry Crowne,Universal,34,46,Discovery,Drama,2973,13.1,4405,35.61,36.4,72.01,30,240.03,43.67,2011
+Limitless,Virgin,69,73,Wretched Excess,Thriller,2756,18.91,6860,79.25,82.6,161.85,27,599.44,70.04,2011
+Machine Gun Preacher,Lionsgate,29,71,Transformation,Action,,0.05,,0.54,0.57,1.1,30,3.68,0.17,2011
+Margin Call,Independent,86,73,Sacrifice,Thriller,,0.56,,5.35,14.15,19.5,3.5,557.26,16,2011
+Mars Needs Moms,Disney,36,43,Rescue,Animation,3117,6.91,2218,21.39,17.6,38.99,150,25.99,4.61,2011
+Midnight in Paris,Sony,93,84,Love,Romance,944,5.83,6177,56.82,94.3,151.12,17,888.94,34.29,2011
+Mission Impossible 4,Paramount,93,86,Pursuit,Action,3448,29.55,8672,209.39,485.32,694.71,145,479.11,20.38,2011
+Moneyball,Columbia,95,89,Underdog,Drama,2993,19.5,6516,75.6,34.6,110.2,50,220.4,39,2011
+Monte Carlo,Fox,38,50,Love,Romance,2473,7.45,3014,23.19,16.48,39.67,20,198.33,37.25,2011
+Mr. Popper's Penguins,Fox,47,54,Discovery,Comedy,3339,18.45,5524,68.22,119.14,187.36,55,340.66,33.55,2011
+My Week with Marilyn,Weinstein,83,84,Love,Drama,247,1.75,7174,14.6,20.46,35.06,10,350.57,17.5,2011
+New Year's Eve,Warner Bros,8,48,Love,Romance,3505,13.01,3714,54.54,87.5,142.04,56,253.64,23.23,2011
+No Strings Attached,Spyglass Entertainment,49,57,Comedy,Comedy,3018,19.7,6512,70.66,78.57,149.23,25,596.91,78.8,2011
+One Day,Independent,37,54,Love,Romance,1719,5.08,2955,13.84,45.55,59.39,15,395.92,33.87,2011
+Our Idiot Brother,Weinstein,68,79,Comedy,Comedy,2555,7.01,2744,24.82,,24.82,5,496.32,140.2,2011
+Paranormal Activity 3,Independent,68,58,Monster Force,Horror,3321,52.57,15829,104.03,103.01,207.04,5,4140.78,1051.4,2011
+Paul,Relativity Media,72,70,Comedy,Comedy,2802,13.04,4655,37.41,60.57,97.98,40,244.96,32.6,2011
+Pirates of the Caribbean:On Stranger Tides,Disney,34,61,Quest,Action,4155,90.15,21697,241.07,804.64,1045.71,250,418.28,36.06,2011
+Priest,Sony,17,37,Monster Force,Action,2864,14.95,5221,29.14,49.17,78.31,60,130.51,24.92,2011
+Puss In Boots,DreamWorks,83,76,Quest,Animation,3952,34.08,8623,149.26,405.73,554.99,130,426.91,26.22,2011
+Rango,Paramount,88,69,Fish Out Of Water,Animation,3917,38.08,9722,123.48,122.25,245.72,135,182.02,28.21,2011
+Real Steel,DreamWorks,58,81,Underdog,Action,3440,27.32,7942,85.47,213.8,299.27,110,272.06,24.84,2011
+Red Riding Hood,Warner Bros,11,41,Monster Force,Horror,3030,14.01,4622,37.66,51.5,89.16,42,212.29,33.36,2011
+Red State,Independent,57,59,Escape,Horror,,,,1.1,,1.1,4,27.6,,2011
+Rio,Fox,71,73,Quest,Animation,3826,39.23,10252,143.62,341.02,484.63,90,538.48,43.59,2011
+Rise of the Planet of the Apes,Fox,83,87,Revenge,Action,3648,54.81,15024,176.7,305.04,481.74,93,518,58.94,2011
+Sanctum,Relativity Media,30,39,Quest,Action,2787,9.4,3390,23.21,85.4,108.61,30,362.03,31.33,2011
+Scream 4,Weinstein,58,57,Monster Force,Horror,3305,18.69,5656,38.18,58.96,97.14,40,242.84,46.73,2011
+Season Of The Witch,Relativity Media,10,32,Monster Force,Action,2816,10.6,3769,24.83,66.8,91.63,40,229.07,26.5,2011
+Shame,Independent,80,80,,Drama,10,0.34,34952,3.09,13.784,16.874,6.5,259.6,5.23,2011
+Shark Night 3D,Relativity Media,16,25,Escape,Horror,2806,8.4,2995,18.88,21.26,40.14,25,160.54,33.6,2011
+Sherlock Holmes 2,Warner Bros,60,79,Pursuit,Action,3703,39.63,10704,186.85,358.6,545.45,125,436.36,31.7,2011
+Something Borrowed,Independent,,,Love,Romance,2904,13.95,4802,39.05,21.14,60.18,35,171.95,39.86,2011
+Soul Surfer,Sony,46,79,Underdog,Drama,2214,10.6,4789,43.85,3.24,47.09,18,261.6,58.89,2011
+Source Code,Summit,92,81,The Riddle,Thriller,2961,14.81,5002,54.71,92.62,147.33,32,460.41,46.28,2011
+Spy Kids: All The Time in the World,Weinstein,22,40,Quest,Action,3295,11.64,3534,38.54,47.03,85.56,27,316.9,43.11,2011
+Sucker Punch,Legendary Pictures,23,48,Quest,Action,3033,19.06,6284,36.39,53.4,89.79,82,109.5,23.24,2011
+Super 8,Paramount,82,78,Monster Force,Horror,3379,35.45,10492,127,133.09,260.1,50,520.19,70.9,2011
+Take Me Home Tonight,Relativity Media,28,46,Discovery,Comedy,2003,3.46,1730,6.93,,6.93,25,27.71,13.84,2011
+Take Shelter,Independent,92,85,Sacrifice,Drama,,0.05,,1.73,1.4,3.13,5,62.52,1,2011
+The Adjustment Bureau,Independent,72,67,Sacrifice,Thriller,2840,21.16,7450,62.5,65.37,127.87,50.2,254.72,42.15,2011
+The Adventures of Tintin,Paramount,74,78,Quest,Adventure,3087,9.72,3149,77.591,296.402,373.993,130,287.69,7.48,2011
+The Artist,Weinstein,97,91,,Drama,662,2.37,3583,44.671,88.761,133.432,16,833.95,14.81,2011
+The Beaver,Summit,62,57,Transformation,Drama,22,0.11,4890,0.97,5.4,6.37,21,30.33,0.52,2011
+The Big Year,Independent,38,62,Transformation,Comedy,2150,3.25,1513,7.2,0.24,7.45,41,18.17,7.93,2011
+The Change Up,Relativity Media,24,53,Metamorphosis,Comedy,2913,13.53,4645,37.08,38.37,75.45,52,145.09,26.02,2011
+The Company Men,Weinstein,66,55,Discovery,Drama,106,0.64,6111,4.44,0.44,4.88,15,32.55,4.27,2011
+The Conspirator,Independent,56,65,Underdog,Drama,707,3.51,4960,11.54,3.94,15.48,25,61.91,14.04,2011
+The Debt,Universal,76,70,Pursuit,Thriller,1826,9.91,5427,31.18,14.46,45.64,20,228.18,49.55,2011
+The Descendants,Fox,89,88,Discovery,Drama,876,4.38,5000,82.58,94.66,177.24,20,886.22,21.9,2011
+The Dilemma,Spyglass Entertainment,23,31,Comedy,Comedy,2940,17.8,6060,48.48,21.25,69.72,70,99.6,25.43,2011
+The Eagle,Universal,39,43,Quest,Action,2296,8.68,3782,19.49,7.63,27.12,25,108.48,34.72,2011
+The Girl With The Dragon Tattoo,Sony,87,89,,Thriller,2914,12.76,4382,102.06,130.101,232.161,90,257.96,14.18,2011
+The Green Hornet,Columbia,44,47,Rivalry,Action,3584,33.5,9335,98.78,129.04,227.82,120,189.85,27.92,2011
+The Hangover Part II,Legendary Pictures,35,58,Comedy,Comedy,3615,85.95,23775,254.46,332.3,586.76,80,733.46,107.44,2011
+The Help,DreamWorks,75,91,Maturation,Drama,2534,26.04,10278,169.71,46.93,216.64,25,866.56,104.16,2011
+The Ides of March,Columbia,85,76,Transformation,Thriller,2199,10.47,4761,40.96,35.03,75.99,12.5,607.94,83.76,2011
+The Iron Lady,Weinstein,53,54,,Drama,802,5.41,6749,30.017,84.938,114.955,13,884.27,41.62,2011
+The Lincoln Lawyer,Lionsgate,84,82,Fish Out Of Water,Drama,2707,13.21,4879,58.01,17,75.01,40,187.52,33.03,2011
+The Mechanic,Independent,53,52,Revenge,Action,2703,11.4,4226,29.12,21.95,51.07,40,127.68,28.5,2011
+The Muppets,Disney,97,87,Quest,Comedy,3440,29.24,8500,88.63,76.55,165.18,45,367.08,64.98,2011
+The Rite,Warner Bros,20,43,Monster Force,Horror,2985,14.8,4955,33.05,63,96.05,37,259.59,40,2011
+The Roommate,Independent,4,29,Monster Force,Horror,2534,15,5921,37.3,3.19,40.49,16,253.08,93.75,2011
+The Rum Diary,Independent,50,48,Discovery,Drama,2273,5.14,2259,13.11,10.84,23.95,45,53.21,11.42,2011
+The Sitter,Fox,22,43,,Comedy,2750,9.85,2582,30.441,4.5,34.941,25,139.76,39.4,2011
+The Smurfs,Sony,23,50,Fish Out Of Water,Animation,3395,35.61,10489,142.61,421.14,563.75,110,512.5,32.37,2011
+The Thing,Universal,36,52,Monster Force,Horror,2996,8.49,2835,16.93,10.5,27.43,38,72.18,22.34,2011
+The Three Musketeers,Independent,24,48,Rivalry,Action,3017,8.67,2875,20.37,111.9,132.27,75,176.37,11.56,2011
+The Tree Of Life,Independent,84,61,Discovery,Drama,4,0.37,93230,13.3,41,54.3,32,169.7,1.16,2011
+Thor,Disney,77,80,Monster Force,Action,3955,65.72,16618,181.03,268.29,449.32,150,299.55,43.81,2011
+Tinker Tailor Soldier Spy,Focus,83,68,,Thriller,809,5.47,6772,24.149,56.481,80.63,21,383.95,26.05,2011
+Tower Heist,Relativity Media,68,61,Revenge,Comedy,3367,24.03,7135,78.04,74.88,152.92,75,203.9,32.04,2011
+Transformers: Dark of the Moon,DreamWorks,35,67,Quest,Action,4088,97.85,23937,352.39,771.4,1123.79,195,576.3,50.18,2011
+Twilight: Breaking Dawn,Independent,26,68,Love,Romance,4061,138.12,34012,281.29,430.88,712.17,110,647.43,125.56,2011
+Unknown,Independent,55,57,The Riddle,Thriller,3043,21.86,7183,63.69,67.1,130.79,30,435.95,72.87,2011
+War Horse,Disney,77,73,,Drama,2376,14.52,6114,79.884,97.7,177.584,66,269.07,22,2011
+Warrior,Lionsgate,83,93,Rivalry,Action,1869,5.24,2805,13.66,9.4,23.06,25,92.23,20.96,2011
+Water For Elephants,Fox,60,72,Love,Drama,2817,16.84,5979,58.71,58.39,117.09,38,308.14,44.32,2011
+We Bought a Zoo,Fox,63,79,,Comedy,3117,9.36,3003,75.624,44.457,120.081,50,240.16,18.72,2011
+What's Your Number,Fox,24,50,Transformation,Comedy,3002,5.42,1806,14.01,16.42,30.43,20,152.13,27.1,2011
+Winnie The Pooh,Disney,91,79,Quest,Animation,2405,7.86,3267,26.69,6.46,33.15,30,110.51,26.2,2011
+X-Men: First Class,Disney,87,88,Monster Force,Action,3641,55.1,15134,146.41,207.22,353.62,160,221.01,34.44,2011
+Your Highness,Universal,26,36,Comedy,Comedy,2769,9.36,3380,21.6,3.26,24.86,49.9,49.81,18.76,2011
+Zookeeper,Happy Madison,14,42,Comedy,Comedy,3482,20.07,5763,80.36,89.49,169.85,80,212.31,25.09,2011
+21 Jump Street,Sony,85,82,,,3121,36.3,11632,138.45,63.14,201.59,42,479.97,86.43,2012
+A Late Quartet,Entertainment One,,,,Drama,9,0.08,8364,1.56,,,,,,2012
+A Royal Affair,Magnolia,,,,,7,0.04,5459,1.55,,,,,,2012
+Abraham Lincoln: Vampire Hunter,Fox,35,51,,,3108,16.31,5247,37.52,78.95,116.47,69,168.8,23.64,2012
+Agneepath,Eros,,,,,132,1.14,8640,1.99,,,,,,2012
+Albert Nobbs,Roadside Attractions,,,,Drama,245,0.7,2841,3.01,,,,,,2012
+American Reunion,Universal,44,63,,,3192,21.51,6740,57.01,177.98,234.99,50,469.98,43.02,2012
+Amour,Sony,,,,Drama,3,0.07,22755,6.74,,,,,,2012
+Anna Karenina,Focus,63,51,,,16,0.32,20043,12.82,56.11,68.93,31,222.35,1.03,2012
+Arbitrage,Roadside Attractions,87,63,,,197,2,10163,7.92,27.57,35.49,12,295.71,16.67,2012
+Argo,Warner Bros,96,90,,,3232,19.46,6020,136.03,96.3,232.33,45,522.08,43.24,2012
+Atlas Shrugged: Part II,Atlas Distribution,,,,Drama,1012,1.75,1731,3.34,,,,,,2012
+Barfi!,UTV,,,,Comedy,132,1.06,8043,2.8,,,,,,2012
+Battleship,Universal,34,55,,,3690,25.53,6920,65.42,237.6,303.03,209,144.99,12.22,2012
+Beasts of the Southern Wild,Fox Searchlight,86,76,,,4,0.17,42426,12.8,,12.8,2,710.87,8.5,2012
+Big Miracle,Universal,74,64,,,2129,7.76,3645,20.16,4.56,24.72,40,61.8,19.4,2012
+Brave,Buena Vista,78,76,,,4164,66.32,15928,237.28,301.7,538.98,185,291.34,35.85,2012
+Bully (PG-13),Weinstein,,,,,158,0.54,3389,3.86,,,,,,2012
+Casa De Mi Padre,Lionsgate,,,,,382,2.29,5988,5.91,,,,,,2012
+Celeste and Jesse Forever,Sony,,,,,4,0.11,26946,3.09,,,,,,2012
+Chasing Mavericks,Fox,,,,,2002,2.27,1133,6,,,,,,2012
+Chernobyl Diaries,Warner Bros,19,29,,,2433,7.96,3270,18.12,19.04,37.16,1,3715.76,796,2012
+Chronicle (2012),Fox,85,71,,,2907,22,7569,64.58,62.06,126.64,12,1055.3,183.33,2012
+Cloud Atlas,Warner Bros,66,67,,,2008,9.61,4787,27.11,103.37,130.48,102,127.92,9.42,2012
+Contraband,Universal,51,58,,,2863,24.35,8505,66.53,29.73,96.26,25,385.05,97.4,2012
+Crooked Arrows,Fox,,,,Drama,55,0.26,4679,1.83,,,,,,2012
+Dabangg 2,Eros,,,,,166,1.02,6140,2.52,,,,,,2012
+Dark Shadows,Warner Bros,38,46,,,3755,29.69,7906,79.73,165.8,245.53,150,163.68,19.79,2012
+Diary of a Wimpy Kid: Dog Days,Fox,51,64,,,3391,14.62,4312,49.01,28.1,77.11,22,350.51,66.45,2012
+Django Unchained,Weinstein,88,92,,,3010,30.12,10008,162.81,262.56,425.37,100,425.37,30.12,2012
+Dr. Seuss' The Lorax,Universal,54,64,,,3729,70.22,18830,214.03,134.81,348.84,70,498.34,100.31,2012
+Dredd,Lionsgate,78,72,,,2506,6.28,2505,13.41,22.21,35.63,50,71.25,12.56,2012
+Ek Tha Tiger,Yash Raj,,,,Action,120,1.14,9495,2.35,,,,,,2012
+End of Watch,Open Road,85,86,,,2730,13.15,4818,41,7.12,48.13,7,687.52,187.86,2012
+English Vinglish,Eros,,,,,88,0.75,8471,1.86,,,,,,2012
+Farewell My Queen,Cohen Media,,,,Drama,4,0.07,18025,1.6,,,,,,2012
+Flight,Paramount,78,75,,,1884,24.9,13217,93.77,68,161.77,31,521.85,80.32,2012
+Footnote,Sony,,,,,2,0.05,23764,2.01,,,,,,2012
+For Greater Glory,ARC Entertainment,,,,Drama,757,1.89,2491,5.67,,,,,,2012
+Frankenweenie,Buena Vista,87,70,,Animation,3005,11.41,3798,35.29,46.2,81.49,39,208.95,29.26,2012
+Friends with Kids,Roadside Attractions,,,,,369,2.02,5472,7.25,,,,,,2012
+Ghost Rider: Spirit of Vengeance,Sony,17,32,,,3174,22.12,6968,51.77,80.79,132.56,57,232.57,38.81,2012
+Girl in Progress,Lionsgate,,,,,322,1.38,4298,2.61,,,,,,2012
+Goon,Magnolia,,,,,241,1.23,5116,4.17,,,,,,2012
+Haywire,Relativity Media,80,40,,Action,2439,8.43,3454,18.94,14.43,33.37,23,145.1,36.65,2012
+Hitchcock,Fox Searchlight,,,,,17,0.29,16924,6.01,,,,,,2012
+Hope Springs,Sony,74,56,,,2361,14.65,6205,63.54,50.75,114.28,30,380.94,48.83,2012
+Hotel Transylvania,Sony,45,72,,,3349,42.52,12697,148.31,210.06,358.38,85,421.62,50.02,2012
+House at the End of The Street,Relativity Media,10,42,,,3083,12.29,3985,31.61,7.85,39.46,10,394.62,122.9,2012
+Housefull 2,Eros,,,,,121,0.85,7001,1.79,,,,,,2012
+Hyde Park on Hudson,Focus,,,,,4,0.08,20341,6.38,,,,,,2012
+Hysteria,Sony,,,,,5,0.04,7131,1.8,,,,,,2012
+Ice Age: Continental Drift,Fox,37,63,,,3881,46.63,12015,161.32,715.92,877.24,95,923.42,49.08,2012
+Jab Tak Hai Jaan,Yash Raj,,,,,161,1.28,7973,3.05,,,,,,2012
+Jack Reacher,Paramount,61,67,,,3352,15.21,4538,80.07,138.27,218.34,60,363.9,25.35,2012
+"Jeff, Who Lives at Home",Paramount,,,,Comedy,254,0.86,3369,4.27,,,,,,2012
+Jiro Dreams of Sushi,Magnolia,,,,,2,0.04,21018,2.55,,,,,,2012
+John Carter,Buena Vista,51,60,,,3749,30.18,8050,73.08,211.06,284.14,250,113.66,12.07,2012
+Journey 2: The Mysterious Island,Warner Bros,52,60,,,3470,27.34,7878,103.86,231.4,335.26,79,424.38,34.61,2012
+Katy Perry: Part of Me,Paramount,78,73,,,2730,7.14,2615,25.33,7.4,32.73,12,272.72,59.5,2012
+Kid With a Bike,IFC,,,,,3,0.05,15311,1.47,,,,,,2012
+Killer Joe,LD Entertainment,,,,Drama,3,0.04,12633,1.99,,,,,,2012
+Killing Them Softly,Weinstein,75,44,,,2424,6.81,2811,15.03,22.9,37.93,15,252.87,45.4,2012
+Last Ounce of Courage,Rocky Mountain,,,,Drama,1407,1.59,1127,3.33,,,,,,2012
+Lawless,Weinstein,67,75,,,2888,10,3463,37.4,16.28,53.68,26,206.45,38.46,2012
+Les Miserables (2012),Universal,70,79,,,2814,27.28,9695,148.81,293,441.81,61,724.28,44.72,2012
+Life of Pi,Fox,87,85,,,2927,22.45,7670,124.99,484.03,609.02,120,507.51,18.71,2012
+Lincoln,Buena Vista,90,81,,,11,0.94,85846,182.21,93.09,275.29,65,423.53,1.45,2012
+Looper,TriStar,93,82,,,2992,20.8,6952,66.49,110.02,176.51,30,588.36,69.33,2012
+Madagascar 3: Europe's Most Wanted,DreamWorks,79,73,,Animation,4258,60.32,14166,216.39,530.53,746.92,145,515.12,41.6,2012
+Magic Mike,Warner Bros,80,61,,,2930,39.13,13354,113.72,53.5,167.22,7,2388.88,559,2012
+Man on a Ledge,Summit,32,52,,Action,2998,8,2669,18.62,27.6,46.22,42,110.05,19.05,2012
+Marley,Magnolia,,,,,42,0.26,6238,1.41,,,,,,2012
+Marvel's The Avengers,Buena Vista,92,91,,,4349,207.44,47698,623.36,895.24,1518.59,220,690.27,94.29,2012
+MIB 3,Sony,70,71,,,4248,54.59,12851,179.02,445.01,624.03,225,277.35,24.26,2012
+Mirror Mirror,Relativity Media,49,45,,,3603,18.13,5032,64.94,101.24,166.17,85,195.5,21.33,2012
+Monsieur Lazhar (U.S.-only),Music Box Films,,,,Drama,19,0.11,5905,2.01,,,,,,2012
+Moonrise Kingdom,Focus,94,86,,,4,0.52,130749,45.51,22.75,22.75,16,142.19,3.25,2012
+Nitro Circus the Movie 3D,ARC Entertainment,,,,Documentary,800,1.18,1480,3.38,,,,,,2012
+October Baby (2012),Samuel Goldwyn,,,,Drama,390,1.7,4352,5.16,,,,,,2012
+Paranormal Activity 4,Paramount,24,36,,Horror,3412,29,8501,53.92,88.92,142.84,5,2856.78,580,2012
+ParaNorman,Focus,87,72,,,3429,14.09,4108,56,51.14,107.14,60,178.57,23.48,2012
+Parental Guidance,Fox,18,61,,,3367,14.55,4323,77.27,42.5,119.77,25,479.09,58.2,2012
+Pitch Perfect,Universal,81,83,,,335,5.15,15371,65,48.04,113.04,17,664.95,30.29,2012
+Premium Rush,Sony,76,60,,,2255,6.03,2674,20.28,10.81,31.08,35,88.81,17.23,2012
+Prometheus,Fox,74,69,,,3396,51.05,15032,126.48,276.88,403.35,130,310.27,39.27,2012
+Promised Land (2012),Focus,,,,,25,0.17,6957,7.6,,,,,,2012
+Raiders of the Lost Ark (IMAX),Paramount,,,,,267,1.67,6269,3.13,,,,,,2012
+Red Dawn (2012),FilmDistrict,12,52,,Action,2724,14.28,5241,44.81,,44.81,65,68.93,21.97,2012
+Red Tails,Fox,40,58,,,2512,18.78,7477,49.88,0.49,50.37,58,86.84,32.38,2012
+Resident Evil: Retribution,Screen Gems,31,51,,Action,3012,21.05,6989,42.35,197.81,240.16,65,369.48,32.38,2012
+Rise of the Guardians,DreamWorks,74,81,,,3653,23.77,6508,103.41,203.53,306.94,145,211.68,16.39,2012
+Robot & Frank,Samuel Goldwyn,,,,Comedy,2,0.04,17770,3.33,,,,,,2012
+Rock of Ages,Warner Bros,41,55,,Musical,3470,14.44,4161,38.52,20.9,59.42,75,79.22,19.25,2012
+Ruby Sparks,Fox Searchlight,,,,Comedy,13,0.14,10832,2.54,,,,,,2012
+Rust and Bone,Sony,,,,,2,0.03,13577,2.06,,,,,,2012
+Safe (2012),Lionsgate,57,60,,,2266,7.89,3483,17.14,23.2,40.35,30,134.49,26.3,2012
+Safe House,Universal,53,64,,,3119,40.17,12880,126.37,81.7,208.08,85,244.8,47.26,2012
+Safety Not Guaranteed,FilmDistrict,,,,,9,0.1,10862,4.01,,,,,,2012
+Salmon Fishing in the Yemen,CBS,67,64,,,18,0.23,12550,9.05,25.52,34.56,15,238.38,1.53,2012
+Samsara,Oscillloscope,,,,Documentary,2,0.08,38111,2.67,,,,,,2012
+Savages (2012),Universal,51,55,,,2628,16.02,6095,47.38,35.58,82.97,45,184.37,35.6,2012
+Searching for Sugar Man,Sony,,,,,3,0.03,9153,3.7,,,,,,2012
+Seeking a Friend for the End of the World,Focus,,,,,1625,3.82,2352,7.08,,,,,,2012
+Seven Psychopaths,CBS,83,71,,,1480,4.17,2821,15.02,4.4,19.42,15,129.48,27.8,2012
+Silver Linings Playbook,Weinstein,92,86,,,16,0.44,27688,132.09,104.32,236.41,21,1125.77,2.1,2012
+Singin' In the Rain (2012 re-release),Warner Bros,,,,,561,0.59,1047,1.61,,,,,,2012
+Sinister,Summit,63,61,,Horror,2527,18.01,7126,48.09,29.63,77.71,3,2590.41,600.33,2012
+Skyfall,Sony,92,86,,,3505,88.36,25211,304.36,804.2,1108.56,200,554.28,44.18,2012
+Sleepwalk with Me,IFC,,,,Comedy,1,0.07,68801,2.27,,,,,,2012
+Snow White and the Huntsman,Universal,48,52,,,3773,56.22,14900,155.33,241.26,396.59,170,233.29,33.07,2012
+Sparkle (2012),TriStar,57,65,,,2244,11.64,5189,24.4,0.24,24.64,14,175.98,83.14,2012
+Step Up Revolution,Summit,42,69,,Romance,2567,11.73,4570,35.07,105.4,140.47,33,425.67,35.55,2012
+Taken 2,Fox,21,54,,,3661,49.51,13525,139.85,236.29,376.14,45,835.87,110.02,2012
+Talaash,Reliance,,,,Drama,172,1.64,9527,2.87,,,,,,2012
+Ted,Universal,68,74,,,3239,54.42,16800,218.82,330.55,549.37,50,1098.74,108.84,2012
+That's My Boy,Sony,20,53,,,3030,13.45,4440,36.93,20.79,57.72,70,82.46,19.21,2012
+The Amazing Spider-Man,Sony,73,77,,,4318,62,14360,262.03,490.19,752.22,230,327.05,26.96,2012
+The Apparition,Warner Bros,,,,,810,2.84,3508,4.94,,,,,,2012
+The Best Exotic Marigold Hotel,Fox Searchlight,78,79,,,27,0.74,27298,46.41,90.42,136.84,10,1368.36,7.4,2012
+The Bourne Legacy,Universal,56,58,,,3745,38.14,10185,113.2,162.94,276.14,125,220.92,30.51,2012
+The Cabin in the Woods,Lionsgate,92,73,,Horror,2811,14.74,5245,42.07,24.41,66.49,30,221.62,49.13,2012
+The Campaign,Warner Bros,65,51,,,3205,26.59,8296,86.91,18,104.91,,,,2012
+The Cold Light of Day,Summit,,,,,1511,1.83,1212,3.76,,,,,,2012
+The Collection,LD Entertainment,,,,,1403,3.1,2213,6.84,,,,,,2012
+The Dark Knight Rises,Warner Bros,88,90,,,4404,160.89,36532,448.14,636.3,1084.44,250,433.78,64.36,2012
+The Devil Inside,Paramount,6,22,,,2285,33.73,14763,53.26,48.5,101.76,1,10175.85,3373,2012
+The Dictator,Paramount,57,45,,,3008,17.44,5796,59.65,119.73,179.38,65,275.97,26.83,2012
+The Expendables 2,Lionsgate,65,68,,,3316,28.59,8622,85.03,220.4,305.43,100,305.43,28.59,2012
+The Five-Year Engagement,Universal,63,52,,,2936,10.61,3614,28.84,25.07,53.91,30,179.7,35.37,2012
+The Grey,Open Road,79,61,,,3185,19.67,6174,51.58,25.7,77.28,25,309.11,78.68,2012
+The Guilt Trip,Paramount,38,40,,,2431,5.29,2176,37.13,4.73,41.86,40,104.65,13.23,2012
+The Hobbit: An Unexpected Journey,Warner Bros,65,83,,,4045,84.62,20919,303,714,1017,200,508.5,42.31,2012
+The Hunger Games,Lionsgate,84,81,,,4137,152.54,36871,408.01,283.24,691.25,78,886.22,195.56,2012
+The Impossible,Summit,81,85,,,15,0.14,9588,19.02,161.25,180.27,30,600.91,0.47,2012
+The Lucky One,Warner Bros,20,68,,,3155,22.52,7137,60.46,38.9,99.36,25,397.43,90.08,2012
+The Master,Weinstein,85,59,,,5,0.74,147262,16.38,11.88,28.26,32,88.31,2.31,2012
+The Perks of Being a Wallflower,Summit,85,89,,,4,0.23,57090,17.74,15.64,33.38,13,256.8,1.77,2012
+The Pirates! Band of Misfits,Sony,86,60,,,3358,11.14,3317,31.05,92,123.05,55,223.73,20.25,2012
+The Possession,Lionsgate,40,49,,,2816,17.73,6297,49.13,36.32,85.45,14,610.33,126.64,2012
+The Queen of Versailles,Magnolia,,,,,3,0.05,17109,2.4,,,,,,2012
+The Raid: Redemption,Sony,,,,,14,0.21,15270,4.11,,,,,,2012
+The Sessions,Fox Searchlight,,,,,4,0.11,28367,6,,,,,,2012
+The Three Stooges,Fox,52,49,,,3477,17.01,4892,44.34,10.48,54.82,30,182.73,56.7,2012
+The Twilight Saga: Breaking Dawn Part 2,Summit,48,71,,,4070,141.07,34660,292.32,537.36,829.69,120,691.4,117.56,2012
+The Vow,Screen Gems,29,63,,,2958,41.2,13929,125.01,71.1,196.11,30,653.72,137.33,2012
+The Watch,Fox,17,40,,,3168,12.75,4025,35.35,32.91,68.27,68,100.39,18.75,2012
+The Woman in Black,CBS,66,55,,,2855,20.87,7311,54.33,73.4,127.73,17,751.36,122.76,2012
+This Is 40,Universal,51,51,,,2912,11.58,3976,67.54,20.51,88.06,35,251.6,33.09,2012
+Total Recall (2012),Sony,30,47,,,3601,25.58,7103,58.88,139.59,198.47,125,158.77,20.46,2012
+Underworld Awakening,Screen Gems,26,62,,,3078,25.31,8222,62.32,97.79,160.11,70,228.73,36.16,2012
+What to Expect When You're Expecting,Lionsgate,22,48,,,3021,10.55,3491,41.15,43.23,84.38,40,210.96,26.38,2012
+Won't Back Down,Fox,,,,,2515,2.6,1035,5.31,,,,,,2012
+Wrath of the Titans,Warner Bros,25,49,,,3545,33.46,9438,83.67,221.6,305.27,150,203.51,22.31,2012
+Wreck-It Ralph,Buena Vista,86,87,,,3752,49.04,13070,189.42,281.8,471.22,165,285.59,29.72,2012
+Your Sister's Sister,IFC,,,,,13,0.11,8402,1.64,,,,,,2012
+Zero Dark Thirty,Sony,93,80,,,5,0.42,83430,95.72,37.1,132.82,40,332.05,1.05,2012
+About Time,Universal,69,83,,,1280,1.08,841,15.32,71.78,87.1,,,,2013
+The Fifth Estate,Buena Vista,37,40,,,1769,1.67,946,3.26,5.3,8.56,28,30.55,5.96,2013
+Parker,FilmDistrict,41,49,,,2238,7.01,3131,17.62,28.6,46.22,35,132.05,20.03,2013
+The To-Do List,CBS,52,48,,,591,1.58,2672,3.49,0.07,3.57,1.5,237.75,105.33,2013
+Grown Ups 2,Sony,7,55,,,3491,41.51,11890,133.67,113.32,246.98,80,308.73,51.89,2013
+After Earth,Sony,11,38,,,3401,27.52,8092,60.52,183.32,243.84,130,187.57,21.17,2013
+Captain Phillips,Sony,93,92,,,3143,25.72,8183,106.24,110.24,216.49,55,393.61,46.76,2013
+Escape Plan,Summit,49,59,,,2883,9.89,3429,25.13,108.24,133.38,50,266.75,19.78,2013
+Prisoners,Warner Bros,82,88,,,3290,20.82,6327,61,61.12,122.13,46,265.49,45.26,2013
+Stoker,Fox Searchlight,68,61,,,275,0.16,584,1.71,10.36,12.08,12,100.65,1.33,2013
+Walking with Dinosaurs,Fox,25,41,,,3243,7.09,2187,34.69,78.5,113.19,80,141.49,8.86,2013
+Love is All You Need,Sony,74,60,,,101,0.04,364,1.63,8.39,10.02,5.5,182.13,0.73,2013
+The Kings of Summer,CBS,76,77,,,65,0.06,907,1.32,,1.32,2,500.85,3,2013
+Iron Man 3,Buena Vista,78,80,,Action,4253,174.14,40946,409.01,806.43,1215.44,200,607.72,87.07,2013
+Despicable Me 2,Universal,74,85,,,4003,83.52,20864,368.06,596.7,964.76,76,1269.42,109.89,2013
+THG: Catching Fire,Lionsgate,90,92,,Action,4163,158.07,37971,420.02,435.87,855.9,130,658.38,121.59,2013
+The Desolation of Smaug,Warner Bros,75,85,,,3928,73.65,18749,252.33,595,847.33,225,376.59,32.73,2013
+Frozen,Buena Vista,89,89,,,3742,0.24,65,347.9,462.5,810.4,150,540.27,0.16,2013
+Fast & Furious 6,Universal,69,84,,Action,3771,97.38,25822,238.68,550,788.68,160,492.92,60.86,2013
+Monsters University,Buena Vista,78,83,,,4004,82.43,20587,268.49,475.07,743.56,200,371.78,41.22,2013
+Gravity,Warner Bros,97,85,,,3820,55.79,14603,261.21,427.3,688.51,100,688.51,55.79,2013
+Man of Steel,Warner Bros,55,76,,Action,4207,116.62,27720,291.05,377,668.05,225,296.91,51.83,2013
+Thor: The Dark World,Buena Vista,65,83,,,3841,85.74,22322,204.51,428.4,632.91,170,372.3,50.44,2013
+The Croods,Fox,70,79,,,4065,43.64,10735,187.17,400.04,587.2,135,434.97,32.33,2013
+World War Z,Paramount,67,73,,,3607,66.41,18412,202.36,337.65,540.01,190,284.21,34.95,2013
+Oz The Great & Powerful,Buena Vista,59,57,,,3912,79.11,20223,234.91,258.4,493.31,215,229.45,36.8,2013
+Star Trek Into Darkness,Paramount,87,90,,,3907,70.17,17959,228.78,238.59,467.37,190,245.98,36.93,2013
+The Wolverine,Fox,69,70,,,3924,53.11,13536,132.56,282.27,414.83,120,345.69,44.26,2013
+Pacific Rim,Warner Bros,71,78,,,3285,37.29,11350,101.8,309.2,411,190,216.32,19.63,2013
+G.I. Joe: Retaliation,Paramount,28,49,,,3734,40.5,10847,122.52,253.22,375.74,130,289.03,31.15,2013
+The Hangover Part III,Warner Bros,19,45,,,3565,41.67,11689,112.2,249.8,362,103,351.46,40.46,2013
+Now You See Me,Summit,50,71,,Thriller,3082,29.35,9523,117.72,234,351.72,75,468.97,39.13,2013
+The Great Gatsby,Warner Bros,49,68,,,3550,50.09,14109,144.84,206.2,351.04,105,334.32,47.7,2013
+The Smurfs 2,Sony,14,58,,,3867,17.55,4538,71.02,276.53,347.55,105,331,16.71,2013
+The Conjuring,Warner Bros,86,83,,Horror,3115,41.86,13437,137.4,180.6,318,20,1590,209.3,2013
+A Good Day to Die Hard,Fox,14,42,,,3555,24.83,6986,67.35,237.3,304.65,92,331.15,26.99,2013
+Oblivion,Universal,53,61,,,3792,37.05,9772,89.11,197.06,286.17,120,238.47,30.88,2013
+Elysium,TriStar,68,60,,,3284,29.81,9077,93.05,193.09,286.14,115,248.82,25.92,2013
+Turbo,Fox,67,67,,,3809,21.31,5595,83.03,199.54,282.57,135,209.31,15.79,2013
+We're the Millers,Warner Bros,47,73,,,3445,26.42,7669,150.39,119.6,269.99,37,729.71,71.41,2013
+Epic,Fox,64,66,,,3894,33.53,8611,107.52,160.91,268.43,100,268.43,33.53,2013
+The Lone Ranger,Buena Vista,31,55,,,3904,29.21,7482,89.3,171.2,260.5,215,121.16,13.59,2013
+Cloudy with a Chance of Meatballs 2,Sony,70,66,,,4001,34.02,8502,118.87,138.9,257.77,78,330.48,43.62,2013
+The Heat,Fox,66,73,,,3184,39.12,12285,159.58,70.35,229.93,43,534.72,90.98,2013
+Hansel & Gretel,Paramount,15,54,,,3375,19.69,5834,55.7,170,225.7,50,451.41,39.38,2013
+Planes,Buena Vista,26,51,,,3716,22.23,5983,90.29,129.5,219.79,50,439.58,44.46,2013
+White House Down,Sony,50,63,,,3222,24.85,7713,73.1,132.26,205.37,150,136.91,16.57,2013
+Percy Jackson: Sea of Monsters,Fox,40,58,,,3080,14.4,4676,68.56,131.29,199.85,90,222.05,16,2013
+Jack the Giant Slayer,Warner Bros,52,56,,,3525,27.2,7717,65.19,132.5,197.69,195,101.38,13.95,2013
+The Wolf of Wall Street,Paramount,77,83,,,2557,18.36,7181,98.51,77.1,175.61,100,175.61,18.36,2013
+Identity Thief,Universal,19,55,,,3230,34.55,10697,134.51,39.46,173.97,35,497.04,98.71,2013
+The Secret Life of Walter Mitty,Fox,48,76,,,2922,12.77,4369,56.34,112.7,169.04,90,187.83,14.19,2013
+Lee Daniels' The Butler,Weinstein,73,80,,,3330,24.64,7399,116.6,51.11,167.71,30,559.03,82.13,2013
+Anchorman 2,Paramount,75,62,,,3507,26.23,7480,123.8,41.7,165.5,50,331.01,52.46,2013
+American Hustle,Sony,93,79,,,2629,0.74,282,127,35.4,162.4,40,406,1.85,2013
+Insidious Chapter 2,FilmDistrict,37,60,,,3155,40.27,12765,83.59,77.92,161.5,5,3230.06,805.4,2013
+Olympus Has Fallen,FilmDistrict,48,68,,,3106,30.37,9779,98.93,62.1,161.03,70,230.04,43.39,2013
+Bad Grandpa,Paramount,61,66,,,3345,32.06,9583,102,47,149,15,993.35,213.73,2013
+Mama,Universal,66,57,,,2781,28.4,10213,71.63,74.8,146.43,15,976.19,189.33,2013
+Red 2,Summit,42,64,,,3016,18.05,5984,53.26,88.82,142.08,84,169.14,21.49,2013
+2 Guns,Universal,64,68,,,3028,27.06,8936,75.61,56.33,131.94,61,216.3,44.36,2013
+12 years a slave,Fox Searchlight,96,92,,Drama,1474,0.92,627,49.28,78.9,128.18,20,640.9,4.6,2013
+This is the End,Sony,83,73,,,3055,20.72,6782,101.47,24.57,126.04,32,393.88,64.75,2013
+47 Ronin,Universal,12,56,,,2690,9.91,3684,38.06,83.7,121.76,175,69.57,5.66,2013
+Last Vegas,CBS,47,62,,,3237,16.33,5046,63.75,53.99,117.74,28,420.51,58.32,2013
+Warm Bodies,Summit,80,74,,,3009,20.35,6764,66.38,50.6,116.98,35,334.23,58.14,2013
+Ender's Game,Summit,61,72,,,3407,27.02,7930,61.74,50.49,112.23,110,102.03,24.56,2013
+Gangster Squad,Warner Bros,32,59,,,3103,17.07,5501,46,59.2,105.2,60,175.33,28.45,2013
+Riddick,Universal,58,56,,,3117,19.03,6105,42.03,56.31,98.34,38,258.78,50.08,2013
+Evil Dead,TriStar,62,64,,,3025,25.78,8521,54.24,43.3,97.54,17,573.78,151.65,2013
+42,Warner Bros,78,86,,,3405,27.49,8073,95.02,,95.02,40,237.55,68.73,2013
+Blue Jasmine,Sony,91,81,,,1283,0.61,477,33.2,61.6,94.8,18,526.68,3.39,2013
+Lone Survivor,Universal,74,,,,3285,0.09,28,93.91,,93.91,40,234.79,0.23,2013
+The Internship,Fox,34,54,,,3399,17.33,5097,44.67,48.82,93.49,58,161.19,29.88,2013
+Saving Mr. Banks,Buena Vista,81,89,,,2671,0.41,155,79.16,12.1,91.26,35,260.74,1.17,2013
+Free Birds,Relativity Media,18,47,,Animation,3736,15.81,4231,55.44,35.4,90.84,55,165.16,28.75,2013
+The Mortal Instruments: City of Bones,Sony,12,61,,Action,3118,9.34,2995,31.17,59.4,90.57,60,150.94,15.57,2013
+Rush,Universal,89,92,,,2308,0.19,81,26.95,63.3,90.25,38,237.49,0.5,2013
+The Purge,Universal,37,37,,,2591,34.06,13145,64.47,24.86,89.33,3,2977.62,1135.33,2013
+Pain and Gain,Paramount,49,48,,,3303,20.24,6129,49.88,36.3,86.18,26,331.44,77.85,2013
+Philomena,Weinstein,92,91,,,1225,0.13,105,33.22,51.65,84.87,12,707.23,1.08,2013
+Carrie,Sony,49,48,,,3157,16.1,5100,35.27,48.76,84.03,30,280.1,53.67,2013
+Scary Movie 5,Weinstein,4,41,,,3402,14.16,4161,32.02,46.36,78.38,20,391.89,70.8,2013
+R.I.P.D.,Universal,13,39,,,2852,12.69,4450,33.62,44.71,78.32,130,60.25,9.76,2013
+The Best Man Holiday,Universal,67,90,,,2041,30.11,14751,70.53,1.1,71.63,17,421.32,177.12,2013
+Safe Haven,Relativity Media,12,68,,,3223,21.4,6640,71.35,0,71.35,28,254.82,76.43,2013
+The Counselor,Fox,34,25,,,3044,7.84,2577,16.97,53.26,70.24,25,280.95,31.36,2013
+The Call,TriStar,43,66,,,2507,17.12,6828,51.87,16.7,68.57,13,527.48,131.69,2013
+Side Effects,Open Road,84,71,,,2605,9.3,3571,32.17,31.2,63.37,30,211.24,31,2013
+Runner Runner,Fox,9,34,,,3026,7.71,2547,19.32,43.36,62.68,30,208.92,25.7,2013
+Beautiful Creatures,Warner Bros,37,34,,,2950,7.58,2570,19.45,40.6,60.05,60,100.09,12.63,2013
+A Haunted House,Open Road,10,54,,,2160,18.1,8380,40.04,19.9,59.94,2.5,2397.67,724,2013
+Kick-Ass 2,Universal,29,62,,,2945,13.33,4527,28.8,30.76,59.56,28,212.7,47.61,2013
+Quartet,Weinstein,80,65,,,725,0.05,65,18.39,41.13,59.52,11,541.09,0.45,2013
+The Last Stand,Lionsgate,60,55,,,2913,6.28,2156,12.05,36.28,48.33,45,107.4,13.96,2013
+The Host,Open Road,8,50,,,3202,10.6,3310,26.63,21.6,48.23,40,120.57,26.5,2013
+The World's End,Focus,89,73,,,1553,8.81,5674,26,20.08,46.09,20,230.45,44.05,2013
+21 and Over,Relativity Media,28,49,,,2771,8.75,3159,25.68,19.9,45.58,13,350.63,67.31,2013
+Snitch,Summit,56,63,,,2511,13.17,5244,42.93,,42.93,15,286.2,87.8,2013
+Jobs,Open Road,27,85,,,2381,6.71,2820,16.13,19.8,35.93,12,299.43,55.92,2013
+The Place Beyond the Pines,Focus,81,75,,,1584,0.28,176,21.4,14.08,35.49,15,236.57,1.87,2013
+August: Osage County,Weinstein,65,72,,,2411,0.18,74,26.51,8.94,35.46,25,141.82,0.72,2013
+Spring Breakers,A24,65,39,,,1379,0.26,191,14.12,17.6,31.72,5,634.49,5.2,2013
+Homefront,Open Road,40,66,,,2570,6.92,2691,20.16,11.2,31.36,22,142.54,31.45,2013
+Delivery Man,Buena Vista,38,52,,,3036,7.94,2617,30.13,1.2,31.33,26,120.5,30.54,2013
+Dallas Buyers Club,Focus,94,92,,Drama,1110,0.26,235,24.85,6,30.85,5,616.9,5.2,2013
+Don Jon,Relativity Media,81,64,,,2422,8.68,3583,24.48,5.97,30.45,6,507.51,144.67,2013
+Her,Warner Bros,94,85,,Drama,1729,0.26,151,24.12,6.24,30.37,23,132.02,1.13,2013
+Movie 43,Relativity Media,4,25,,,2023,4.81,2376,8.84,21.09,29.93,6,498.77,80.17,2013
+Grudge Match,Warner Bros,28,57,,,2856,7.02,2459,29.24,,29.24,40,73.09,17.55,2013
+Mandela: Long Walk to Freedom,Weinstein,58,73,,,1010,0.08,83,8.08,19.01,27.26,35,77.89,0.23,2013
+Dark Skies,Weinstein,39,50,,,2313,8.19,3540,17.42,9,26.42,3.5,754.91,234,2013
+Enough Said,Fox Searchlight,96,78,,,835,0.23,279,17.55,6.87,24.42,8,305.23,2.88,2013
+Trance,Fox Searchlight,68,64,,,443,0.13,296,2.33,21.93,24.26,20,121.31,0.65,2013
+Inside Llewyn Davis,CBS,94,76,,,729,0.41,556,12,10.1,23.21,11,210.97,3.73,2013
+"The Way, Way Back",Fox Searchlight,85,85,,,1001,0.55,552,21.51,1.69,23.2,4.6,504.32,11.96,2013
+Baggage Claim,Fox Searchlight,14,56,,,2230,9.03,4050,21.57,0.89,22.46,8.5,264.19,106.24,2013
+The Big Wedding,Lionsgate,7,42,,,2633,7.59,2883,21.82,,21.82,35,62.34,21.69,2013
+The Sapphires,Weinstein,91,76,,,126,0.04,305,2.45,17.97,20.42,9,226.93,0.44,2013
+Broken City,Fox,28,42,,,2622,8.27,3154,19.7,,19.7,35,56.29,23.63,2013
+The Bling Ring,A24,60,34,,,650,0.21,330,5.85,13.3,19.15,8,239.32,2.63,2013
+Dead Man Down,FilmDistrict,38,48,,,2188,5.35,2443,10.9,7.18,18.07,,,,2013
+Admission,Focus,38,34,,,2161,6.15,2848,18.01,0,18.01,13,138.52,47.31,2013
+Fruitvale Station,Weinstein,94,92,,,1086,0.39,356,16.1,0.92,17.03,1,1702.6,39,2013
+Battle of the Year,Sony,6,52,,,2008,4.6,2292,8.89,7.66,16.55,20,82.75,23,2013
+The Last Exorcism Part II,CBS,16,27,,,2700,7.73,2862,15.18,,15.18,5,303.59,154.6,2013
+Machete Kills,Open Road,29,39,,,2538,3.84,1512,8.01,7,15.01,12,,32,2013
+Paranoia,Relativity Media,4,,,,2459,3.53,1435,7.39,6.4,13.79,35,39.39,10.09,2013
+I'm So Excited,Sony,47,38,,,99,0.1,983,1.37,10.36,11.72,,,,2013
+Nebraska,Paramount,92,86,,,968,0.14,145,11.72,,11.72,12,97.67,1.17,2013
+Out of the Furnace,Relativity Media,52,53,,,2101,5.22,2485,11.31,,11.33,22,51.5,23.73,2013
+Before Midnight,Sony,98,82,,,897,0.25,275,8.11,3.06,11.18,3,372.55,8.33,2013
+Getaway,Warner Bros,2,36,,,2135,4.5,2110,10.5,,10.5,18,58.34,25,2013
+Bullet to the Head,Warner Bros,46,41,,,2404,4.55,1892,9.49,,9.49,,,,2013
+Black Nativity,Fox Searchlight,48,57,,,1525,3.67,2406,7.02,0.44,7.45,17.5,42.6,20.97,2013
+Blue Is the Warmest Color,IFC,90,87,,,142,0.1,706,2.16,5.18,7.37,5.5,134.01,1.82,2013
+Unfinished Song,Weinstein,64,71,,,91,0.03,283,1.7,5.34,7.04,,,,2013
+The Spectacular Now,A24,92,,,,770,0.2,256,6.85,,6.85,2.5,274.18,8,2013
+All Is Lost,Roadside Attractions,93,66,,,483,0.09,194,6.22,,6.26,8.5,73.68,1.06,2013
+Closed Circuit,Focus,42,33,,,870,2.46,2833,5.75,,5.75,19,,12.95,2013
+The Company You Keep,Sony,55,45,,,807,0.13,163,5.13,,5.13,2,256.65,6.5,2013
+Oldboy,FilmDistrict,43,37,,,583,0.89,1519,2.19,2.67,4.86,30,16.2,2.97,2013
+Frances Ha,IFC,93,78,,,233,0.14,590,4.07,,4.07,7,58.14,2,2013
+Emperor,Roadside Attractions,31,47,,,311,1.01,3261,3.35,,3.35,,,,2013
+Stand Up Guys,Lionsgate,37,47,,,670,1.49,2218,3.31,,3.31,1.8,183.89,82.78,2013
+In a World,Roadside Attractions,92,74,,,144,0.07,490,2.96,,2.96,1,331,7,2013
+The East,Fox Searchlight,74,66,,,195,0.08,395,2.3,0.1,2.4,6.5,36.95,1.23,2013
+No,Sony,93,79,,,99,0.07,725,2.34,,2.34,,,,2013
+Renoir,Samuel Goldwyn,68,57,,,86,0.07,758,2.29,,2.29,6,39.06,1.17,2013
+Austenland,Sony,30,60,,,274,0.04,148,2.16,,2.16,4.9,44.06,0.82,2013
+The Iceman,Millenium Entertainment,66,63,,,258,0.09,341,1.97,,1.97,10,19.69,0.9,2013
+Girl Most Likely,Roadside Attractions,20,35,,,351,0.69,1978,1.38,,1.38,60,2.3,1.15,2013
+Wadjda,Sony,99,89,,,87,0.04,474,1.35,,1.35,,539.1,,2013
+Much Ado About Nothing,Roadside Attractions,84,78,,,222,0.17,775,4.33,,,,,,2013
+The Butler,Weinstein,73,79,,,2933,24.64,8400,116.63,51.11,167.74,30,559.14,82.13,2013
+The Canyons,IFC,22,,,,1,0.01,13351,0.06,0.14,0.19,,77.21,,2013
+The Call,TriStar,43,66,,,2507,17.12,6828,51.87,16.7,68.57,13,527.48,131.69,2013
+The English Teacher,Cinedigm Entertainment,42,,,,2,0.01,3001,0.1,0.06,0.1,,,,2013
+John Dies at the End,Magnolia,61,53,,,1,0.01,12467,0.14,,0.14,1,14.2,1,2013
+Lovelace,Radius-TWC,55,37,,Biography,118,0.18,1564,0.36,1.17,1.52,10,15.25,1.8,2013
