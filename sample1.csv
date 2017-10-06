@@ -1,0 +1,16 @@
+Age,Income,JobSatisfaction,Desire,Enrolls
+<=30,High,No,Fair,No
+<=30,High,No,Excellent,No
+31 to 40,High,No,Fair,Yes
+>40,Medium,No,Fair,Yes
+>40,Low,Yes,Fair,Yes
+>40,Low,Yes,Excellent,No
+31 to 40,Low,Yes,Excellent,Yes
+<=30,Medium,No,Fair,No
+<=30,Low,Yes,Fair,Yes
+>40,Medium,Yes,Fair,Yes
+<=30,Medium,Yes,Excellent,Yes
+31 to 40,Medium,No,Excellent,Yes
+31 to 40,High,Yes,Fair,Yes
+>40,Medium,No,Excellent,No
+<=30,Medium,Yes,Fair,
