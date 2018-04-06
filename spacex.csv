@@ -1,0 +1,52 @@
+Flight Number,Date,Time (UTC),Booster Version,Launch Site,Payload,Payload Mass (kg),Orbit,Customer,Mission Outcome,Landing Outcome
+1,"June 4, 2010",18:45,F9 v1.0,CCAFS LC-40,Dragon Spacecraft Qualification Unit,,LEO,SpaceX,Success,Failure (parachutes)
+2,"December 8, 2010",15:43,F9 v1.0,CCAFS LC-40,"Dragon demo flight C1, two CubeSats,  barrel of Brouère cheese",,LEO,NASA (COTS) NRO,Success,Failure (parachutes)
+3,"May 22, 2012",7:44,F9 v1.0,CCAFS LC-40,Dragon demo flight C2+,525 ,LEO,NASA (COTS),Success,No attempt
+4,"October 8, 2012",0:35,F9 v1.0,CCAFS LC-40,SpaceX CRS-1,500 ,LEO,NASA (CRS),Success,No attempt
+5,"March 1, 2013",15:10,F9 v1.0,CCAFS LC-40,SpaceX CRS-2,677 ,LEO,NASA (CRS),Success,No attempt
+6,"September 29, 2013",16:00,F9 v1.1,VAFB SLC-4E,CASSIOPE,500 ,Polar orbit,MDA,Success,Failure (ocean)
+7,"December 3, 2013",22:41,F9 v1.1,CCAFS LC-40,SES-8,"3,170 ",GTO,SES,Success,No attempt
+8,"January 6, 2014",22:06,F9 v1.1,CCAFS LC-40,Thaicom 6,"3,325 ",GTO,Thaicom,Success,No attempt
+9,"April 18, 2014",19:25,F9 v1.1,CCAFS LC-40,SpaceX CRS-3,"2,296 ",LEO,NASA (CRS),Success,Success (ocean)
+10,"July 14, 2014",15:15,F9 v1.1,CCAFS LC-40,OG2 Mission 1  6 Orbcomm-OG2 satellites,"1,316 ",LEO,Orbcomm,Success,Success (ocean)
+11,"August 5, 2014",8:00,F9 v1.1,CCAFS LC-40,AsiaSat 8,"4,535 ",GTO,AsiaSat,Success,No attempt
+12,"September 7, 2014",5:00,F9 v1.1,CCAFS LC-40,AsiaSat 6,"4,428 ",GTO,AsiaSat,Success,No attempt
+13,"September 21, 2014",5:52,F9 v1.1,CCAFS LC-40,SpaceX CRS-4,"2,216 ",LEO,NASA (CRS),Success,Failure (ocean)
+14,"January 10, 2015",9:47,F9 v1.1,CCAFS LC-40,SpaceX CRS-5,"2,395 ",LEO,NASA (CRS),Success,Failure (drone ship)
+15,"February 11, 2015",23:03,F9 v1.1,CCAFS LC-40,DSCOVR,570 ,Sun-Earth L1,U.S. Air Force NASA NOAA,Success,Success (ocean)
+16,"March 2, 2015",3:50,F9 v1.1,CCAFS LC-40,ABS-3A Eutelsat 115 West B,"4,159 ",GTO,ABS Eutelsat,Success,No attempt
+17,"April 14, 2015",20:10,F9 v1.1,CCAFS LC-40,SpaceX CRS-6,"1,898 ",LEO,NASA (CRS),Success,Failure (drone ship)
+18,"April 27, 2015",23:03,F9 v1.1,CCAFS LC-40,TürkmenÄlem 52°E / MonacoSAT,"4,707 ",GTO,Turkmenistan National Space Agency,Success,No attempt
+19,"June 28, 2015",14:21,F9 v1.1,CCAFS LC-40,SpaceX CRS-7,"1,952 ",LEO,NASA (CRS),Failure (in flight),Precluded (drone ship)
+20,"December 22, 2015",1:29,F9 FT B1019,CCAFS LC-40,OG2 Mission 2   11 Orbcomm-OG2 satellites,"2,034 ",LEO,Orbcomm,Success,Success (ground pad)
+21,"January 17, 2016",18:42,F9 v1.1,VAFB SLC-4E,Jason-3,553 ,LEO,NASA NOAA CNES,Success,Failure (drone ship)
+22,"March 4, 2016",23:35,F9 FT B1020,CCAFS LC-40,SES-9,"5,271 ",GTO,SES,Success,Failure (drone ship)
+23,"April 8, 2016",20:43,F9 FT B1021.1,CCAFS LC-40,SpaceX CRS-8,"3,136 ",LEO,NASA (CRS),Success,Success (drone ship)
+24,"May 6, 2016",5:21,F9 FT B1022,CCAFS LC-40,JCSAT-14,"4,696 ",GTO,SKY Perfect JSAT Group,Success,Success (drone ship)
+25,"May 27, 2016",21:39,F9 FT B1023.1,CCAFS LC-40,Thaicom 8,"3,100 ",GTO,Thaicom,Success,Success (drone ship)
+26,"June 15, 2016",14:29,F9 FT B1024,CCAFS LC-40,ABS-2A Eutelsat 117 West B,"3,600 ",GTO,ABS Eutelsat,Success,Failure (drone ship)
+27,"July 18, 2016",4:45,F9 FT B1025.1,CCAFS LC-40,SpaceX CRS-9,"2,257 ",LEO,NASA (CRS),Success,Success (ground pad)
+28,"August 14, 2016",5:26,F9 FT B1026,CCAFS LC-40,JCSAT-16,"4,600 ",GTO,SKY Perfect JSAT Group,Success,Success (drone ship)
+29,"January 14, 2017",17:54,F9 FT B1029.1,VAFB SLC-4E,Iridium NEXT 1–10,"9,600 ",LEO,Iridium Communications,Success,Success (drone ship)
+30,"February 19, 2017",14:39,F9 FT B1031.1,KSC LC-39A,SpaceX CRS-10,"2,490 ",LEO,NASA (CRS),Success,Success (ground pad)
+31,"March 16, 2017",6:00,F9 FT B1030,KSC LC-39A,EchoStar 23,"5,600 ",GTO,EchoStar,Success,No attempt
+32,"March 30, 2017",22:27,F9 FT B1021.2,KSC LC-39A,SES-10,"5,300 ",GTO,SES,Success,Success (drone ship)
+33,"May 1, 2017",11:15,F9 FT B1032.1,KSC LC-39A,NROL-76,Classified,LEO,NRO,Success,Success (ground pad)
+34,"May 15, 2017",23:21,F9 FT B1034,KSC LC-39A,Inmarsat-5 F4,"6,070 ",GTO,Inmarsat,Success,No attempt
+35,"June 3, 2017",21:07,F9 FT B1035.1,KSC LC-39A,SpaceX CRS-11,"2,708 ",LEO,NASA (CRS),Success,Success (ground pad)
+36,"June 23, 2017",19:10,F9 FT B1029.2,KSC LC-39A,BulgariaSat-1,"3,669 ",GTO,Bulsatcom,Success,Success (drone ship)
+37,"June 25, 2017",20:25,F9 FT B1036.1,VAFB SLC-4E,Iridium NEXT 11–20,"9,600 ",LEO,Iridium Communications,Success,Success (drone ship)
+38,"July 5, 2017",23:38,F9 FT B1037,KSC LC-39A,Intelsat 35e,"6,761 ",GTO,Intelsat,Success,No attempt
+39,"August 14, 2017",16:31,F9 B4 B1039.1,KSC LC-39A,SpaceX CRS-12,"3,310 ",LEO,NASA (CRS),Success,Success (ground pad)
+40,"August 24, 2017",18:51,F9 FT B1038.1,VAFB SLC-4E,Formosat-5,475 ,SSO,NSPO,Success,Success (drone ship)
+41,"September 7, 2017",14:00,F9 B4 B1040.1,KSC LC-39A,Boeing X-37B OTV-5,"4,990 ",LEO,U.S. Air Force,Success,Success (ground pad)
+42,"October 9, 2017",12:37,F9 B4 B1041.1,VAFB SLC-4E,Iridium NEXT 21–30,"9,600 ",LEO,Iridium Communications,Success,Success (drone ship)
+43,"October 11, 2017",22:53,F9 FT B1031.2,KSC LC-39A,SES-11 / EchoStar 105,"5,200 ",GTO,SES EchoStar,Success,Success (drone ship)
+44,"October 30, 2017",19:34,F9 B4 B1042.1,KSC LC-39A,Koreasat 5A,"3,500 ",GTO,KT Corporation,Success,Success (drone ship)
+45,"December 15, 2017",15:36,F9 FT B1035.2,CCAFS SLC-40,SpaceX CRS-13,"2,205 ",LEO,NASA (CRS),Success,Success (ground pad)
+46,"December 23, 2017",1:27,F9 FT B1036.2,VAFB SLC-4E,Iridium NEXT 31–40,"9,600 ",LEO,Iridium Communications,Success,Success (ocean)
+47,"January 8, 2018",1:00,F9 B4 B1043.1,CCAFS SLC-40 (after static fire on KSC LC-39A),Zuma,Classified,LEO,Northrop Grumman,Success  (payload status unclear),Success (ground pad)
+48,"January 31, 2018",21:25,F9 FT B1032.2,CCAFS SLC-40,GovSat-1 / SES-16,"4,230 ",GTO,SES,Success,Success (ocean)
+FH 1,"February 6, 2018",20:45,"Heavy B1033.1, B1023.2 (side), B1025.2 (side)",KSC LC-39A,Elon Musk's Tesla Roadster,"~1,300 ",HCO 0.99 to 1.67 AU,SpaceX,Success,"Failure (drone ship), Success (ground pad), Success (ground pad)"
+49,"February 22, 2018",14:17,F9 FT B1038.2,VAFB SLC-4E,Paz (with AIS receiver and ROHP experiment)  Tintin A & B,"2,150 ",SSO,Hisdesat exactEarth SpaceX,Success,No attempt
+50,"March 6, 2018",5:33,F9 B4 B1044,CCAFS SLC-40,Hispasat 30W-6,"6,092",GTO,Hispasat,Success,No attempt
