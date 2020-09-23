@@ -4,7 +4,7 @@ A collection of datasets from multiple sources to be used for demonstrations in 
 
 # Data Dictionary
 
-A dtaa dictionary is provided for some of the datasets in this repo. Click on the dataset of interest in the list below to learn more about the available attributes.
+A data dictionary is provided for some of the datasets in this repo. Click on the dataset of interest in the list below to learn more about the available attributes.
 
 <details>
   <summary> Click to see data dictionary for:
