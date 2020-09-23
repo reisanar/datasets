@@ -7,7 +7,7 @@ A collection of datasets from multiple sources to be used for demonstrations in 
 A dtaa dictionary is provided for some of the datasets in this repo. Click on the dataset of interest in the list below to learn more about the available attributes.
 
 <details>
-  <summary> Click for dataset:
+  <summary> Click to see data dictionary for:
     
     BostonHousing.csv
   
@@ -33,7 +33,7 @@ A dtaa dictionary is provided for some of the datasets in this repo. Click on th
 </details>
 
 <details>
-  <summary> Click for dataset:
+  <summary> Click to see data dictionary for:
     
     DATASET2.csv
   
