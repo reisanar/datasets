@@ -7,10 +7,9 @@ A collection of datasets from multiple sources to be used for demonstrations in 
 A data dictionary (or data description) is provided for some of the datasets in this repo. Click on the dataset of interest in the list below to learn more about the available attributes.
 
 <details>
-  <summary> Click to see data dictionary for:
-    
-    BostonHousing.csv
-  
+  <summary> Click to see data dictionary for: 
+
+  [`BostonHousing.csv`](https://github.com/reisanar/datasets/blob/master/BostonHousing.csv)
   </summary>
   
   Variables |  Description
@@ -35,8 +34,7 @@ A data dictionary (or data description) is provided for some of the datasets in 
 <details>
   <summary> Click to see data dictionary for:
     
-    DATASET2.csv
-  
+  [`Auto`](https://github.com/reisanar/datasets/blob/master/Auto.csv)
   </summary>
   
   Variables |  Description
