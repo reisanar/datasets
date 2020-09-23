@@ -2,9 +2,9 @@
 
 A collection of datasets from multiple sources to be used for demonstrations in data science courses. 
 
-# Data Dictionary
+# Data Dictionary and/or Description
 
-A data dictionary is provided for some of the datasets in this repo. Click on the dataset of interest in the list below to learn more about the available attributes.
+A data dictionary (or data description) is provided for some of the datasets in this repo. Click on the dataset of interest in the list below to learn more about the available attributes.
 
 <details>
   <summary> Click to see data dictionary for:
