@@ -1033,7 +1033,7 @@ Information for 579 movies is provided including release date, genre, and total 
 `Happiness`      | Measure of degree of happiness
 `AlcoholUse`        | Self-reported: Abstain, Light, Moderate, or Heavy
 `Drinks` | Number of alcoholic drinks per week
-`WeekdayBed`  | Average wqeekday bedtime (24.0 = midnight)
+`WeekdayBed`  | Average weekday bedtime (24.0 = midnight)
 `WeekdayRise`      | Average weekday rise time (8.0 = 8am)
 `WeekdaySleep`        | Average hours of sleep on weekdays
 `WeekendBed`| Average weekend bedtime (24.0 = midnight)
