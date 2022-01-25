@@ -1,0 +1,198 @@
+mydate,myloc,total,ppg,mileage,month,year,dayofweek
+2016-08-23,Mobil Station,29,NA,29531,Aug,2016,Tue
+2016-08-27,NA,25.51,NA,29736,Aug,2016,Sat
+2016-08-31,NA,26,NA,29917,Aug,2016,Wed
+2016-09-07,NA,17,NA,30142,Sep,2016,Wed
+2016-09-10,NA,26,NA,30304,Sep,2016,Sat
+2016-09-15,Exxon Pepitos ,28.5,2.669,30541,Sep,2016,Thu
+2016-09-22,Mobil ,15,2.59,30710,Sep,2016,Thu
+2016-09-29,Mobil ,20,2.65,30945,Sep,2016,Thu
+2016-10-05,Exxon Pepitos ,26,NA,31105,Oct,2016,Wed
+2016-10-12,Mobil,13,NA,31223,Oct,2016,Wed
+2016-10-20,Mobil,26.25,NA,31483,Oct,2016,Thu
+2016-10-25,Mobil FIU,21.5,NA,31667,Oct,2016,Tue
+2016-11-01,Chevron Doral,27.08,NA,31905,Nov,2016,Tue
+2016-11-08,Mobil FIU,25,NA,32142,Nov,2016,Tue
+2016-11-15,Mobil Sedanos ,25.93,2.49,32399,Nov,2016,Tue
+2016-11-19,Shell Flagler ,26,2.459,32640,Nov,2016,Sat
+2016-11-23,Mobil FIU,11,NA,32755,Nov,2016,Wed
+2016-11-30,Marathon ,30,2.59,33008,Nov,2016,Wed
+2016-12-07,Mobil Doral ,27.02,2.67,33260,Dec,2016,Wed
+2016-12-09,Mobil Doral ,22,2.75,33442,Dec,2016,Fri
+2017-01-03,Mobil Doral ,24.01,2.79,33916,Jan,2017,Tue
+2017-01-13,Chevron ,28,NA,34163,Jan,2017,Fri
+2017-01-14,Chevron ,14.5,NA,34302,Jan,2017,Sat
+2017-01-18,Chevron Doral,24,NA,34595,Jan,2017,Wed
+2017-01-25,Chevron Doral ,22,2.58,347920,Jan,2017,Wed
+2017-02-01,Speedway Doral ,24.29,2.58,350032,Feb,2017,Wed
+2017-02-05,Mobil Sedanos,17.23,NA,35190,Feb,2017,Sun
+2017-02-10,Exxon Pepitos ,27.27,2.79,35414,Feb,2017,Fri
+2017-02-14,Exxon Brickell ,13,3.19,47924,Feb,2017,Tue
+2017-02-15,Speedway Chevron ,28.59,2.65,35654,Feb,2017,Wed
+2017-02-23,Mobil Sedanos ,25.35,2.79,35880,Feb,2017,Thu
+2017-03-01,Speedway Doral ,20.33,2.71,36039,Mar,2017,Wed
+2017-03-06,Sunshine Doral ,27.14,2.69,36312,Mar,2017,Mon
+2017-03-11,Mobil Doral ,15,2.67,36475,Mar,2017,Sat
+2017-03-18,Mobil doral ,27.09,2.67,36686,Mar,2017,Sat
+2017-03-20,Mobil Miami Lakes ,25,2.56,36937,Mar,2017,Mon
+2017-03-25,Speedway Doral ,21.64,2.58,37127,Mar,2017,Sat
+2017-03-31,Mobil Pepitos ,31.69,2.85,37387,Mar,2017,Fri
+2017-04-06,Mobil Doral ,22.19,2.85,37563,Apr,2017,Thu
+2017-04-16,Mobil Doral ,25.07,2.79,37783,Apr,2017,Sun
+2017-04-22,Chevron FIU ,27.01,2.65,38011,Apr,2017,Sat
+2017-04-27,Speedway Doral ,23.79,2.65,38217,Apr,2017,Thu
+2017-05-06,Mobil Doral ,28,2.67,38480,May,2017,Sat
+2017-05-09,Mobil Doral ,17,2.67,38625,May,2017,Tue
+2017-05-13,Mobil Doral ,27.54,2.67,38889,May,2017,Sat
+2017-05-18,Mobil Miami Lakes ,24,2.53,39125,May,2017,Thu
+2017-05-26,Mobil Sedanos ,21.21,2.75,39289,May,2017,Fri
+2017-06-05,Exxon Pepitos ,21.49,2.79,39491,Jun,2017,Mon
+2017-06-14,Exxos Pepitos ,23.74,2.75,39710,Jun,2017,Wed
+2017-06-19,Exxon Pepitos ,25.55,2.75,40000,Jun,2017,Mon
+2017-06-24,Mobil Doral ,12.68,2.67,40064,Jun,2017,Sat
+2017-06-29,Exxon coral gables ,31,2.79,40305,Jun,2017,Thu
+2017-07-02,Chevron Doral ,14.08,2.61,40436,Jul,2017,Sun
+2017-07-05,Exxon Pepitos ,20,2.7,40588,Jul,2017,Wed
+2017-07-10,Mobil Sedanos ,25.52,2.59,40951,Jul,2017,Mon
+2017-07-14,Shell Sunny Isles ,20,2.89,41181,Jul,2017,Fri
+2017-07-19,Chevron Brickell ,36.59,3.39,41345,Jul,2017,Wed
+2017-07-25,Mobil Miami Gardens ,24,2.47,41602,Jul,2017,Tue
+2017-08-03,Mobil Sunrise,25.01,NA,42058,Aug,2017,Thu
+2017-08-06,Marathin Doral ,25.88,2.79,42269,Aug,2017,Sun
+2017-08-31,Mobil ,23.52,2.79,42460,Aug,2017,Thu
+2017-09-06,Shell South Bay ,4.46,3.199,NA,Sep,2017,Wed
+2017-09-06,Circle K Lake Placid ,18.38,3.019,NA,Sep,2017,Wed
+2017-09-07,Wawa Kissimmee ,11.01,2.94,42874,Sep,2017,Thu
+2017-09-07,Wawa ,5.91,2.94,42921,Sep,2017,Thu
+2017-09-09,Marathon GA ,21.03,2.99,43220,Sep,2017,Sat
+2017-09-09,Shell Albany GA ,20,3.19,43264,Sep,2017,Sat
+2017-09-12,Flying J ,13.67,2.94,43388,Sep,2017,Tue
+2017-09-12,Wawa Kissimmee ,20,2.94,43596,Sep,2017,Tue
+2017-09-13,Shell West Palm ,8.25,3.07,43767,Sep,2017,Wed
+2017-09-19,Chevron Brickell ,39.01,3.59,43959,Sep,2017,Tue
+2017-09-28,Mobil Miami Gardens ,28.25,2.84,44214,Sep,2017,Thu
+2017-10-10,Citgo Brickell ,31.75,3.19,44450,Oct,2017,Tue
+2017-10-20,Mobil FIU ,31.93,2.84,44741,Oct,2017,Fri
+2017-10-30,STU Chevron ,36.01,3.35,45032,Oct,2017,Mon
+2017-11-07,Mobil Miami Gardens ,26.51,2.759,45295,Nov,2017,Tue
+2017-11-15,Citgo Brickell ,33.6,3.19,45540,Nov,2017,Wed
+2017-11-30,Exxon Brickell ,32.83,3.19,45828,Nov,2017,Thu
+2017-12-07,Marathon Miami Gardens ,32.52,3.15,46105,Dec,2017,Thu
+2017-12-14,Shell Miami Gardens ,25.25,2.59,46346,Dec,2017,Thu
+2017-12-16,Speedway 107 ,28.63,2.72,33702,Dec,2017,Sat
+2018-01-10,Exxon Brickell ,28.68,3.19,46568,Jan,2018,Wed
+2018-01-20,Citgo ,35,3.19,46827,Jan,2018,Sat
+2018-01-30,Exxon Brickell ,33,3.19,47098,Jan,2018,Tue
+2018-02-01,Shell Fort Pierce ,24.01,3.28,47284,Feb,2018,Thu
+2018-02-02,Speedway Lakeland ,13,3.07,47437,Feb,2018,Fri
+2018-02-03,Shell Fort Pierce ,17.5,3.28,47567,Feb,2018,Sat
+2018-02-08,Exxon Brickell ,31.25,3.19,47834,Feb,2018,Thu
+2018-02-22,Mobil Miami Gardens ,30.15,2.86,48189,Feb,2018,Thu
+2018-03-07,Shell Braman ,33.82,3.3,48457,Mar,2018,Wed
+2018-03-15,Exxon Brickell ,23.04,3.19,48627,Mar,2018,Thu
+2018-03-21,Mobil Miami Gardens ,24.37,2.85,48861,Mar,2018,Wed
+2018-03-28,Exxon Miami Gardens ,26.6,2.99,49075,Mar,2018,Wed
+2018-04-06,Mobil Miami Gardens ,23.5,2.94,49250,Apr,2018,Fri
+2018-04-15,Exxon Brickell ,20,2.94,49502,Apr,2018,Sun
+2018-04-19,Mobil Doral ,33.45,3.19,49657,Apr,2018,Thu
+2018-04-19,Shell Lakeland Linder Airport ,31.5,2.99,50294,Apr,2018,Thu
+2018-04-27,Mobil Miami Gardens ,27.5,2.99,49870,Apr,2018,Fri
+2018-04-28,Shell Fort Drum ,23.01,3.14,50038,Apr,2018,Sat
+2018-05-01,Marathon Coral Gables ,21.01,3.09,50646,May,2018,Tue
+2018-05-10,Mobil Miami Gardens ,26.5,3.04,50861,May,2018,Thu
+2018-05-11,Shell Canoe Creek ,28.01,3.13,51073,May,2018,Fri
+2018-05-11,Shell West Palm Beach ,30.01,3.21,51332,May,2018,Fri
+2018-05-16,Chevron Aventura ,10,3.55,51567,May,2018,Wed
+2018-05-18,Exxon Brickell ,36.16,3.39,51683,May,2018,Fri
+2018-05-27,Exxon Brickell ,20,3.39,51885,May,2018,Sun
+2018-06-04,Mobil Miami Gardens ,24,3.14,52029,Jun,2018,Mon
+2018-06-12,Shell Coconut Grove ,34.25,3.29,52292,Jun,2018,Tue
+2018-06-15,Mobil Miami Gardens ,19.5,3.05,52444,Jun,2018,Fri
+2018-06-16,Sunoco Lakeland ,27.99,3.25,NA,Jun,2018,Sat
+2018-06-16,Shell Fort Drum ,21.02,3.19,52847,Jun,2018,Sat
+2018-06-23,Exxon Doral ,31.02,3.26,53286,Jun,2018,Sat
+2018-07-05,Exxon Brickell ,36,3.39,53527,Jul,2018,Thu
+2018-07-13,Marathon Miramar ,36.19,3.29,53792,Jul,2018,Fri
+2018-07-18,Marathon Palmetto ,13.56,3.09,53912,Jul,2018,Wed
+2018-07-20,Palm Beach ,23.01,3.07,NA,Jul,2018,Fri
+2018-07-24,Citgo South Lakeland ,32.51,3.17,54324,Jul,2018,Tue
+2018-07-30,Exxon Retreat ,30.35,2.96,54571,Jul,2018,Mon
+2018-08-02,Mobil South Tampa ,30.5,3.16,54803,Aug,2018,Thu
+2018-08-08,Exxon Retreat ,32.35,3.26,55023,Aug,2018,Wed
+2018-08-12,Circle K Highlands ,25.86,3.05,55200,Aug,2018,Sun
+2018-08-15,Pilot Haines City ,14.31,2.96,55335,Aug,2018,Wed
+2018-08-18,Exxon Gibson ,28.02,3.26,55610,Aug,2018,Sat
+2018-08-23,Exxon Gibson ,32,3.26,55816,Aug,2018,Thu
+2018-08-29,Shell Jupiter FL ,25.09,3.47,50500,Aug,2018,Wed
+2018-08-30,ELEVEN Gibson ,35.12,3.24,56065,Aug,2018,Thu
+2018-09-08,Shell Wesley Chapel ,31.5,3.19,56317,Sep,2018,Sat
+2018-09-16,Gibson ,34.5,3.13,56582,Sep,2018,Sun
+2018-09-26,Gibson ,34,3.24,56850,Sep,2018,Wed
+2018-09-29,BP Yeehaw ,40,3.24,57102,Sep,2018,Sat
+2018-10-06,Gibson ,24.01,3.07,57293,Oct,2018,Sat
+2018-10-13,Wawa Tampa ,30,2.94,57547,Oct,2018,Sat
+2018-10-18,Gibson ,27.52,3.01,57779,Oct,2018,Thu
+2018-10-24,Gibson ,33.01,3.11,58048,Oct,2018,Wed
+2018-10-30,Gibson ,20,3.04,58205,Oct,2018,Tue
+2018-11-10,Gibson ,30,2.84,58470,Nov,2018,Sat
+2018-11-23,Wawa ,19.99,2.44,58879,Nov,2018,Fri
+2018-11-30,Gibson ,28.67,2.62,59140,Nov,2018,Fri
+2018-12-07,Gibson ,29.22,2.54,59409,Dec,2018,Fri
+2018-12-07,Wawa Tampa ,5.17,2.32,59463,Dec,2018,Fri
+2018-12-14,Marathon Dinasour World ,25,2.54,59702,Dec,2018,Fri
+2018-12-18,Wawa Millenia Orlando ,24,2.36,59951,Dec,2018,Tue
+2018-12-23,Gibson ,10.02,2.54,60119,Dec,2018,Sun
+2018-12-26,Gibson ,28.54,2.51,60302,Dec,2018,Wed
+2019-01-05,Gibson ,21.54,2.45,60538,Jan,2019,Sat
+2019-01-12,Gibson ,25.04,2.45,60771,Jan,2019,Sat
+2019-01-19,Shell Fort Drum ,24.5,2.62,60994,Jan,2019,Sat
+2019-01-21,Mobil FIU ,23.01,2.55,61211,Jan,2019,Mon
+2019-01-21,Shell Port St Lucie ,15.03,2.6,61334,Jan,2019,Mon
+2019-01-25,Gibson ,15.02,2.45,61604,Jan,2019,Fri
+2019-01-26,Wawa Tampa ,17.14,2.46,61660,Jan,2019,Sat
+2019-01-30,Wawa Tampa ,28,2.6,NA,Jan,2019,Wed
+2019-02-02,Gibson ,16.05,2.54,62046,Feb,2019,Sat
+2019-02-07,Gibson ,26.01,2.52,62279,Feb,2019,Thu
+2019-02-15,Gibson ,22.39,2.44,62502,Feb,2019,Fri
+2019-02-18,Cumberland Cocoa Beach ,13.76,2.41,62628,Feb,2019,Mon
+2019-02-23,Circle K Highlands ,27.25,2.64,62885,Feb,2019,Sat
+2019-03-01,Gibson ,31,2.75,63122,Mar,2019,Fri
+2019-03-06,Citgo Combee Rd ,30,2.99,63413,Mar,2019,Wed
+2019-03-16,Marathon Downtown ,30.81,2.81,63631,Mar,2019,Sat
+2019-03-24,Wawa North Lakeland ,30,2.85,63861,Mar,2019,Sun
+2019-03-30,Marathon Wesley Chapel ,30.01,2.85,64095,Mar,2019,Sat
+2019-04-05,Sunoco Highlands ,25.13,2.99,64287,Apr,2019,Fri
+2019-04-17,Marathon Dixieland ,36.01,3.06,64574,Apr,2019,Wed
+2019-04-26,Circle K Highlands ,32.01,2.97,64813,Apr,2019,Fri
+2019-04-30,Circle K Highlands ,29.36,2.97,65049,Apr,2019,Tue
+2019-05-05,Circle K Highlands ,30.86,3.08,65288,May,2019,Sun
+2019-05-11,Wawa Wesley Chapel ,32.01,2.98,65537,May,2019,Sat
+2019-05-15,Circle K Highlands ,17.9,2.52,65719,May,2019,Wed
+2019-05-23,Mobil Scott Lake ,33,2.81,65985,May,2019,Thu
+2019-05-29,Circle K Highlands ,29.01,2.84,66258,May,2019,Wed
+2019-06-02,Shell St Pete ,30.29,3.19,66502,Jun,2019,Sun
+2019-06-08,Sunoco Highlands ,25,2.84,66721,Jun,2019,Sat
+2019-06-11,Sunoco Cleveland Heights ,30.01,2.84,67010,Jun,2019,Tue
+2019-06-14,Shell Harden ,13.02,2.95,67111,Jun,2019,Fri
+2019-06-17,Wawa Tampa ,12,2.65,67214,Jun,2019,Mon
+2019-06-23,Circle K Highlands ,28.07,2.71,67468,Jun,2019,Sun
+2019-06-29,Mobil Scott Lake ,20,2.79,67676,Jun,2019,Sat
+2019-07-08,Mobil Scott Lake ,30,2.95,67911,Jul,2019,Mon
+2019-07-12,Circle K Highlands ,30.01,2.95,68179,Jul,2019,Fri
+2019-07-17,Shell Fort Drum ,22.51,3.1,68344,Jul,2019,Wed
+2019-07-17,Shell Fort Drum ,20.04,3.1,68531,Jul,2019,Wed
+2019-07-25,Mobil Scott Lake ,29,2.89,68800,Jul,2019,Thu
+2019-07-27,Circle K Highlands ,18,2.88,68927,Jul,2019,Sat
+2019-08-04,Shell Ellenton,22.05,2.66,69784,Aug,2019,Sun
+2019-08-06,BP Siesta Key ,11.77,2.88,69891,Aug,2019,Tue
+2019-08-11,Sunoco Tamp Soho ,10,2.64,70123,Aug,2019,Sun
+2019-08-13,Mobil Kathleen ,28.78,2.74,70277,Aug,2019,Tue
+2019-08-18,Mobil Scott Lake ,20,2.7,70541,Aug,2019,Sun
+2019-08-21,Circle K Highlands ,19.63,2.64,70643,Aug,2019,Wed
+2019-08-30,South Florida ,26.3,2.74,71091,Aug,2019,Fri
+2019-09-01,Circle K Highlands ,7,2.75,71154,Sep,2019,Sun
+2019-09-08,Mobil Scott Lake ,26,2.74,71413,Sep,2019,Sun
+2019-09-14,Mobil Scott Lake ,30.01,2.72,71895,Sep,2019,Sat
+2019-09-18,Mobil Scott Lake ,27.17,2.8,72174,Sep,2019,Wed
+2019-09-19,Mobil Scott Lake ,22.45,2.72,71615,Sep,2019,Thu
+2019-09-22,Circle K Highlands ,19.26,2.79,72328,Sep,2019,Sun
