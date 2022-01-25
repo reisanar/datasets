@@ -1,0 +1,786 @@
+8/23/16 @ Mobil Station
+USD 29  
+Mileage 29531 
+
+8/27/16
+USD 25.51 
+Mileage 29736
+
+8/31/16
+USD 26 
+Mileage 29917
+
+9/7/16
+USD 17 
+Mileage 30142
+
+9/10/16
+USD 26 
+Mileage 30304
+
+9/15/16 @ Exxon Pepitos (2.669) 
+USD 28.50 
+Mileage 30541 
+
+9/22/16 @ Mobil (2.59)
+USD 15  
+Mileage 30710
+
+9/29/16 @ Mobil (2.65)
+USD 20
+Mileage 30945
+
+10/5/16 @ Exxon Pepitos 
+USD 26
+Mileage 31105
+
+10/12/16 @ Mobil
+USD 13 
+Mileage 31223
+
+10/20/16 @ Mobil
+USD 26.25
+Mileage 31483
+
+10/25/16 @ Mobil FIU
+USD 21.50
+Mileage 31667
+
+11/1/16 @ Chevron Doral
+USD 27.08
+Mileage 31905
+
+11/08/16 @ Mobil FIU
+USD 25 
+Mileage 32142
+
+11/15/16 @ Mobil Sedanos (2.49)
+USD 25.93
+Mileage 32399
+
+11/19/16 @ Shell Flagler (2.459)
+USD 26
+Mileage 32640
+
+11/23/16 @ Mobil FIU
+USD 11
+Mileage 32755
+
+11/30/16 @ Marathon (2.59)
+USD 30 
+Mileage 33008c
+
+12/7/16 @ Mobil Doral (2.67)
+USD 27.02 
+Mileage 33260
+
+12/09/16 @ Mobil Doral (2.75)
+USD 22
+33442
+
+12/16/17 @ Speedway 107 (2.72)
+USD 28.63
+33702
+
+1/3/17 @ Mobil Doral (2.79)
+USD 24.01
+33916
+
+1/13/17 @ Chevron 
+USD 28
+34163
+
+1/14/17 @ Chevron (Keys)
+USD 14.5
+34302
+
+1/18/17 @ Chevron Doral
+USD 24
+34595
+
+1/25/17 @ Chevron Doral (2.58)
+USD 22
+347920
+
+2/1/17 @ Speedway Doral (2.58)
+USD 24.29
+350032
+
+2/5/17 @ Mobil Sedanos
+USD 17.23
+35190
+
+2/10/17 @ Exxon Pepitos (2.79)
+USD 27.27
+35414
+
+2/15/17 @ Speedway Chevron (2.65)
+USD 28.59
+35654
+
+2/23/17 @ Mobil Sedanos (2.79)
+USD 25.35
+35880
+
+3/1/17 @ Speedway Doral (2.71)
+USD 20.33
+36039
+
+3/6/17 @ Sunshine Doral (2.69)
+USD 27.14
+Mileage 36312
+
+3/11/17 @ Mobil Doral (2.67)
+USD 15
+Mileage 36475
+
+3/18/17 @ Mobil doral (2.67)
+USD 27.09
+Mileage 36686
+
+3/20/17 @ Mobil Miami Lakes (2.56)
+USD 25
+Mileage 36937
+
+3/25/17 @ Speedway Doral (2.58)
+USD 21.64
+Mileage 37127
+
+3/31/17 @ Mobil Pepitos (2.85)
+USD 31.69
+Mileage 37387
+
+4/6/17 @ Mobil Doral (2.85)
+USD 22.19
+Mileage 37563
+
+4/16/17 @ Mobil Doral (2.79)
+USD 25.07
+Mileage 37783
+
+4/22/17 @ Chevron FIU (2.65)
+USD 27.01
+Mileage 38011
+
+4/27/17 @ Speedway Doral (2.65)
+USD 23.79
+Mileage 38217
+
+5/6/17 @ Mobil Doral (2.67)
+USD 28
+Mileage 38480
+
+5/9/17 @ Mobil Doral (2.67)
+USD 17
+mileage 38625
+
+5/13/17 @ Mobil Doral (2.67)
+USD 27.54
+Mileage 38889
+
+5/18/17 @ Mobil Miami Lakes (2.53)
+USD 24
+Mileage 39125
+
+5/26/17 @ Mobil Sedanos (2.75)
+USD 21.21
+Mileage 39289
+
+6/5/17 @ Exxon Pepitos (2.79)
+USD 21.49
+Mileage 39491
+
+6/14/17 @ Exxos Pepitos (2.75)
+USD 23.74
+Mileage 39710
+
+6/19/17 @ Exxon Pepitos (2.75)
+USD 25.55
+Mileage 40000
+
+6/24/17 @ Mobil Doral (2.67)
+USD 12.68
+Mileage 40064
+
+6/29/17 @ Exxon coral gables (2.79)
+USD 31
+Mileage 40305
+
+7/2/17 @ Chevron Doral (2.61)
+USD 14.08 
+Mileage 40436
+
+7/5/17 @ Exxon Pepitos (2.70)
+USD 20
+Mileage 40588
+
+7/10/17 @ Mobil Sedanos (2.59)
+USD 25.52
+Mileage 40951
+
+7/14/17 @ Shell Sunny Isles (2.89)
+USD 20
+Mileage 41181
+
+7/19/17 @ Chevron Brickell (3.39)
+USD 36.59
+Mileage 41345
+
+7/25/17 @ Mobil Miami Gardens (2.47)
+USD 24
+Mileage 41602
+
+8/3/17 @ Mobil Sunrise
+USD 25.01
+Mileage 42058
+
+8/6/17 @Marathin Doral (2.79)
+USD 25.88
+Mileage 42269
+
+8/31/17 @ Mobil (Miami Gardens) (2.79)
+USD 23.52
+Mileage 42460
+
+9/6/17 @ Shell South Bay (3.199)
+USD 4.46
+
+9/6/17 @ Circle K Lake Placid (3.019)
+USD 18.38
+
+9/7/17 @ Wawa Kissimmee (2.94)
+USD 11.01
+Mileage 42874
+
+9/7/17 @ Wawa (2.94)
+USD 5.91
+Mileage 42921
+
+9/9/17 @ Marathon GA (2.99)
+USD 21.03
+Mileage 43220
+
+9/9/17 @ Shell Albany GA (3.19)
+USD 20
+Mileage 43264
+
+9/12/17 @ Flying J (2.94)
+USD 13.67
+Mileage 43388 
+
+9/12/17 @ Wawa Kissimmee (2.94)
+USD 20
+Mileage 43596
+
+9/13/17 @ Shell West Palm (3.07)
+USD 8.25
+Mileage 43767
+
+9/19/17 @ Chevron Brickell (3.59)
+USD 39.01
+Mileage 43959
+
+9/28/17 @ Mobil Miami Gardens (2.84)
+USD 28.25
+Mileage 44214
+
+10/10/17 @ Citgo Brickell (3.19)
+USD 31.75
+Mileage 44450
+
+10/20/17 @ Mobil FIU (2.84)
+USD 31.93
+Mileage 44741
+
+10/30/17 @ STU Chevron (3.35)
+USD 36.01
+Mileage 45032
+
+11/7/17 @ Mobil Miami Gardens (2.759)
+USD 26.51
+Mileage 45295
+
+11/15/17 @ Citgo Brickell (3.19)
+USD 33.60
+Mileage 45540
+
+11/30/17 @ Exxon Brickell (3.19)
+USD 32.83
+Mileage 45828
+
+
+12/7/17 @ Marathon Miami Gardens (3.15)
+USD 32.52
+Mileage 46105 
+
+12/14/17 @ Shell Miami Gardens (2.59)
+USD 25.25 
+Mileage 46346
+
+1/10/18 @ Exxon Brickell (3.19)
+USD 28.68
+Mileage 46568
+
+1/20/18 @ Citgo (3.19)
+USD 35
+Mileage 46827
+
+1/30/18 @ Exxon Brickell (3.19)
+USD 33
+Mileage 47098
+
+2/1/18 @ Shell Fort Pierce (3.28)
+USD 24.01
+Mileage 47284
+
+2/2/18 @ Speedway Lakeland (3.07)
+USD 13
+Mileage 47437
+
+2/3/18 @ Shell Fort Pierce (3.28)
+USD 17.50
+Mileage 47567
+
+2/8/18 @ Exxon Brickell (3.19)
+USD 31.25
+Mileage 47834
+
+2/14/17 @ Exxon Brickell (3.19)
+USD 13
+Mileage 47924
+
+2/22/18 @ Mobil Miami Gardens (2.86)
+USD 30.15
+Mileage 48189
+
+3/7/18 @ Shell Braman (3.30)
+USD 33.82
+Mileage 48457
+
+3/15/18 @ Exxon Brickell (3.19)
+USD 23.04
+Mileage 48627
+
+3/21/18 @ Mobil Miami Gardens (2.85)
+USD 24.37
+Mileage 48861
+
+3/28/18 @ Exxon Miami Gardens (2.99)
+USD 26.60
+Mileage 49075
+
+4/6/18 @ Mobil Miami Gardens (2.94)
+USD 23.50
+Mileage 49250
+
+4/15/18 @ Exxon Brickell (2.94)
+USD 20
+Mileage 49502
+
+4/19/18 @ Mobil Doral (3.19)
+USD 33.45
+Mileage 49657
+
+4/27/18 @ Mobil Miami Gardens (2.99)
+USD 27.50
+Mileage 49870
+
+4/28/18 @ Shell Fort Drum (3.14)
+USD 23.01
+Mileage 50038
+
+4/19/18 @ Shell Lakeland Linder Airport (2.99)
+USD 31.50
+Mileage 50294
+
+8/29/18 @ Shell Jupiter FL (3.47)
+USD 25.09
+Mileage 50500
+
+5/1/18 @ Marathon Coral Gables (3.09)
+USD 21.01
+Mileage 50646
+
+5/10/18 @ Mobil Miami Gardens (3.04)
+USD 26.50
+Mileage 50861
+
+5/11/18 @ Shell Canoe Creek (3.13)
+USD 28.01
+Mileage 51073
+
+5/11/18 @ Shell West Palm Beach (3.21)
+USD 30.01
+Mileage 51332
+
+5/16/18 @ Chevron Aventura (3.55)
+USD 10 
+Mileage 51567
+
+5/18/18 @ Exxon Brickell (3.39)
+USD 36.16
+Mileage 51683
+
+5/27/18 @ Exxon Brickell (3.39)
+USD 20
+Mileage 51885
+
+6/4/18 @ Mobil Miami Gardens (3.14)
+USD 24
+Mileage 52029
+
+6/12/18 @ Shell Coconut Grove (3.29)
+USD 34.25
+Mileage 52292
+
+6/15/18 @ Mobil Miami Gardens (3.05)
+USD 19.50
+Mileage 52444
+
+6/16/18 @ Sunoco Lakeland (3.25)
+USD 27.99
+Mileage 
+
+6/16/18 @ Shell Fort Drum (3.19)
+USD 21.02
+Mileage 52847
+
+6/23/18 @ Exxon Doral (3.26)
+USD 31.02
+Mileage 53286
+
+7/5/18 @ Exxon Brickell (3.39)
+USD 36
+Mileage 53527
+
+7/13/18 @ Marathon Miramar (3.29)
+USD 36.19
+Mileage 53792
+
+7/18/18 @ Marathon Palmetto (3.09)
+USD 13.56
+Mileage 53912
+
+7/20/18 @ 711 Palm Beach (3.07)
+USD 23.01
+Mileage 
+
+7/24/18 @ Citgo South Lakeland (3.17)
+USD 32.51
+Mileage 54324
+
+7/30/18 @ Exxon Retreat (2.96)
+USD 30.35
+Mileage 54571
+
+8/2/18 @ Mobil South Tampa (3.16)
+USD 30.50
+Mileage 54803
+
+8/8/18 @ Exxon Retreat (3.26)
+USD 32.35
+Mileage 55023
+
+8/12/18 @ Circle K Highlands (3.05)
+USD 25.86
+Mileage 55200
+
+8/15/18 @ Pilot Haines City (2.96)
+USD 14.31
+Mileage 55335
+
+8/18/18 @ Exxon Gibson (3.26)
+USD 28.02
+Mileage 55610
+
+8/23/18 @ Exxon Gibson (3.26)
+USD 32
+Mileage 55816
+
+8/30/18 @ 7-ELEVEN Gibson (3.24)
+USD 35.12
+Mileage 56065
+
+9/8/18 @ Shell Wesley Chapel (3.19)
+USD 31.50
+Mileage 56317
+
+9/16/18 @ 711 Gibson (3.13)
+USD 34.50
+Mileage 56582
+
+9/26/18 @ 711 Gibson (3.24)
+USD 34
+Mileage 56850
+
+9/29/18 @ BP Yeehaw (3.24)
+USD 40
+Mileage 57102
+
+10/6/18 @ 711 Gibson (3.07)
+USD 24.01
+Mileage 57293
+
+10/13/18 @ Wawa Tampa (2.94)
+USD 30.00
+Mileage 57547
+
+10/18/18 @ 711 Gibson (3.01)
+USD 27.52
+Mileage 57779
+
+10/24/18 @ 711 Gibson (3.11)
+USD 33.01
+Mileage 58048
+
+10/30/18 @ 711 Gibson (3.04)
+USD 20
+Mileage 58205
+
+11/10/18 @ 711 Gibson (2.84)
+USD 30
+Mileage 58470
+
+11/23/18 @ Wawa (2.44)
+USD 19.99
+Mileage 58879
+
+11/30/18 @ 711 Gibson (2.62)
+USD 28.67
+Mileage 59140
+
+12/07/18 @ 711 Gibson (2.54)
+USD 29.22
+Mileage 59409
+
+12/07/18 @ Wawa Tampa (2.32)
+USD 5.17
+Mileage 59463
+
+12/14/18 @ Marathon Dinasour World (2.54)
+USD 25
+Mileage 59702
+
+12/18/18 @ Wawa Millenia Orlando (2.36)
+USD 24
+Mileage 59951
+
+12/23/18 @ 711 Gibson (2.54)
+USD 10.02
+Mileage 60119
+
+12/26/18 @ 711 Gibson (2.51)
+USD 28.54
+Mileage 60302
+
+1/5/19 @ 711 Gibson (2.45)
+USD 21.54
+Mileage 60538
+
+1/12/19 @ 711 Gibson (2.45)
+USD 25.04
+Mileage 60771
+
+1/19/19 @ Shell Fort Drum (2.62)
+USD 24.50
+Mileage 60994
+
+1/21/19 @ Mobil FIU (2.55)
+USD 23.01
+Mileage 61211
+
+1/21/19 @ Shell Port St Lucie (2.60)
+USD 15.03
+Mileage 61334
+
+01/25/19 @ 711 Gibson (2.45)
+USD 15.02
+Mileage 61604
+
+01/26/19 @ Wawa Tampa (2.46)
+USD 17.14
+Mileage 61660
+
+01/30/19 @ Wawa Tampa (2.60)
+USD 28
+Mileage NA
+
+02/02/19 @ 711 Gibson (2.54)
+USD 16.05
+Mileage 62046
+
+02/07/19 @ 711 Gibson (2.52)
+USD 26.01
+Mileage 62279
+
+02/15/19 @ 711 Gibson (2.44)
+USD 22.39
+Mileage 62502
+
+02/18/19 @ Cumberland Cocoa Beach (2.41)
+USD 13.76
+Mileage 62628
+
+02/23/19 @ Circle K Highlands (2.64)
+USD 27.25
+Mileage 62885
+
+03/01/19 @ 711 Gibson (2.75)
+USD 31
+Mileage 63122
+
+03/06/19 @ Citgo Combee Rd (2.99)
+USD 30
+Mileage 63413
+
+03/16/19 @ Marathon Downtown (2.81)
+USD 30.81
+Mileage 63631
+
+03/24/19 @ Wawa North Lakeland (2.85)
+USD 30
+Mileage 63861
+
+03/30/19 @ Marathon Wesley Chapel (2.85)
+USD 30.01
+Mileage 64095
+
+04/05/19 @ Sunoco Highlands (2.99)
+USD 25.13
+Mileage 64287
+
+04/17/19 @ Marathon Dixieland (3.06)
+USD 36.01
+Mileage 64574
+
+04/26/19 @ Circle K Highlands (2.97)
+USD 32.01
+Mileage 64813
+
+04/30/19 @ Circle K Highlands (2.97)
+USD 29.36
+Mileage 65049
+
+05/05/19 @ Circle K Highlands (3.08)
+USD 30.86
+Mileage 65288
+
+05/11/19 @ Wawa Wesley Chapel (2.98)
+USD 32.01
+Mileage 65537
+
+05/15/19 @ Circle K Highlands (2.52)
+USD 17.90
+Mileage 65719
+
+5/23/19 @ Mobil Scott Lake (2.81)
+USD 33
+Mileage 65985
+
+5/29/19 @ Circle K Highlands (2.84)
+USD 29.01
+Mileage 66258
+
+6/2/19 @ Shell St Pete (3.19)
+USD 30.29
+Mileage 66502
+
+6/8/19 @ Sunoco Highlands (2.84)
+USD 25
+Mileage 66721
+
+06/11/19 @ Sunoco Cleveland Heights (2.84)
+USD 30.01
+Mileage 67010
+
+06/14/19 @ Shell Harden (2.95)
+USD 13.02
+Mileage 67111
+
+06/17/19 @ Wawa Tampa (2.65)
+USD 12
+Mileage 67214
+
+06/23/19 @ Circle K Highlands (2.71)
+USD 28.07
+Mileage 67468
+
+06/29/19 @ Mobil Scott Lake (2.79)
+USD 20
+Mileage 67676
+
+07/08/19 @ Mobil Scott Lake (2.95)
+USD 30
+Mileage 67911
+
+07/12/19 @ Circle K Highlands (2.95)
+USD 30.01
+Mileage 68179
+
+07/17/19 @ Shell Fort Drum (3.10)
+USD 22.51
+Mileage 68344
+
+07/17/19 @ Shell Fort Drum (3.10)
+USD 20.04
+Mileage 68531
+
+07/25/19 @ Mobil Scott Lake (2.89)
+USD 29
+Mileage 68800
+
+07/27/19 @ Circle K Highlands (2.88)
+USD 18
+Mileage 68927
+
+08/04/19 @ Shell Ellenton, FL (2.66)
+USD 22.05
+Mileage 69784
+
+08/06/19 @ BP Siesta Key (2.88)
+USD 11.77
+Mileage 69891
+
+08/11/19 @ Sunoco Tamp Soho (2.64)
+USD 10
+Mileage 70123
+
+08/13/19 @ Mobil Kathleen (2.74)
+USD 28.78
+Mileage 70277
+
+08/18/19 @ Mobil Scott Lake (2.70)
+USD 20
+Mileage 70541
+
+08/21/19 @ Circle K Highlands (2.64)
+USD 19.63
+Mileage 70643
+
+08/30/19 @ 711 South Florida (2.74)
+USD 26.3
+Mileage 71091
+
+09/01/19 @ Circle K Highlands (2.75)
+USD 7
+Mileage 71154
+
+09/08/19 @ Mobil Scott Lake (2.74)
+USD 26
+Mileage 71413
+
+09/19/19 @ Mobil Scott Lake (2.72)
+USD 22.45
+Mileage 71615
+
+09/14/19 @ Mobil Scott Lake (2.72)
+USD 30.01
+Mileage 71895
+
+09/18/19 @ Mobil Scott Lake (2.80)
+USD 27.17
+Mileage 72174
+
+09/22/19 @ Circle K Highlands (2.79)
+USD 19.26
+Mileage 72328
