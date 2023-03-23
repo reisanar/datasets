@@ -1043,6 +1043,7 @@ Information for 579 movies is provided including release date, genre, and total 
 `AllNighter`   | Had an all-nighter this semester? 1 = yes, 0 = no
 
 </details>
+See more details at https://cran.r-project.org/web/packages/Lock5Data/index.html
 
 <details>
   <summary> Click to see data dictionary for:
