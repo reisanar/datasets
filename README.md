@@ -10,6 +10,16 @@ A data dictionary (or data description) is provided for some of the datasets in 
 <details>
   <summary> Click to see data dictionary for: 
 
+  [`fuel.csv`](https://github.com/reisanar/datasets/blob/master/fuel.csv)
+  </summary>  See this website: https://www.fueleconomy.gov/feg/ws/
+
+</details>
+
+
+
+<details>
+  <summary> Click to see data dictionary for: 
+
   [`BostonHousing.csv`](https://github.com/reisanar/datasets/blob/master/BostonHousing.csv)
   </summary> This dataset contains information collected by the US Census Service concerning housing in the area of Boston Massachusetts. It was obtained from the StatLib archive (http://lib.stat.cmu.edu/datasets/boston). The dataset has 506 cases.
 Source: The data was originally published by Harrison, D. and Rubinfeld, D.L. `Hedonic prices and the demand for clean air`, J. Environ. Economics & Management, vol.5, 81-102, 1978.
