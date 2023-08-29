@@ -1,0 +1,452 @@
+---
+title: "Conditional, Loops, and Functions"
+format: html
+---
+
+
+## This lecture is about
+
+- conditionals (if/else)
+- loops (for, while)
+- how to define your own functions
+- basic programming flow
+
+
+
+# Conditionals
+
+## if statements
+
+
+```{r}
+if (2 > 1) {
+  print('fact')
+}
+```
+
+
+---  
+
+```{r}
+if (2 < 1) {
+  print('alternative fact')
+}
+```
+
+## if/else statements
+
+```{r}
+ 
+# Flip a coin 
+if (runif(1) < 0.5) {
+    print('heads')
+} else {
+    print('tails')
+}
+```
+
+
+## else-if statements
+
+```{r}
+r <- runif(1)
+# rock paper sissors
+if (r < 1/3) {
+    print('rock')
+} else if (1/3 < r && r < 2/3) {
+    print('paper')
+} else{
+    print('scissors')
+}
+```
+
+
+## Equality
+
+```{r}
+2*5 == 10
+```
+
+## Beware of finite precision arithmetic
+
+```{r}
+# oops
+sqrt(2)^2 == 2
+```
+
+_safety first_
+
+```{r}
+dplyr::near(sqrt(2)^2, 2)
+```
+
+## Vectorized operations
+
+```{r}
+c(1, 1, 1) == c(1, 2, 1)
+```
+
+## Use the double symbol in for loops
+
+default to `&&` or `||` in a for loop
+
+```{r}
+# c(T, T, T) || c(T, F, T)
+```
+
+Otherwise you get a vector
+
+```{r}
+c(T, T, T) | c(T, F, T)
+```
+
+# Loops
+
+## for loops
+
+```{r}
+for (i in 1:10) {
+  print(i)
+}
+```
+
+## Pre-allocate memory 
+
+```{r}
+nums <- vector("double", 10) # or rep(0, 10) or something else
+for (i in 1:10) {
+  nums[i] <- runif(1)
+}
+```
+
+## Dynamic allocation bad
+
+```{r}
+# nums <- c()
+# for (i in 1:10) {
+#   nums <- c(nums, runif(1))
+# }
+```
+
+
+## while loops
+
+
+```{r}
+current_position <- 10
+n_iter <- 0
+while (current_position > 0){
+    current_position <- current_position + rnorm(1)
+    n_iter <- n_iter + 1
+}
+print(paste0('you lost all your money after ', n_iter, ' trips to the casino'))
+```
+
+
+## Infinite loops
+
+```{r}
+# while (TRUE){
+#     print('Math rocks')
+# }
+```
+
+## Vectorization
+
+Try to vectorize anything you can 
+
+```{r}
+sapply(1:10, function(x) x * 2)
+```
+
+```{r}
+n <- 10
+sum((1:n)^2)
+```
+
+
+# Functions
+
+## Functions are for humans and computers
+
+- break long program up into small chunks
+- more readable
+- code reuse
+    - catch errors
+    - don't have to copy/paste
+- only need to fix code in one place
+
+## When to write a function?
+
+
+> You should consider writing a function whenever you've copied and pasted a block of code more than twice
+
+## Define a function
+
+```{r}
+power <- function(num, exponent){
+    # returns num raised to the exponent
+    num ^ exponent
+}
+
+power(2, 3)
+```
+
+## Default arguments
+
+```{r}
+power <- function(num, exponent=3){
+    # returns num raised to the exponent
+    num ^ exponent
+}
+
+power(2)
+```
+
+## Return values
+
+```{r}
+random_rps <- function(){
+    # randomly returns one of rock, paper or scissors
+    
+    r <- runif(1)
+    # rock paper sissors
+    if (r < 1/3) {
+        return('rock')
+    } else if (1/3 < r && r < 2/3) {
+        return('paper')
+    } else{
+        return('scissors')
+    }
+}
+
+random_rps()
+```
+
+
+## Modularity and abstraction
+
+- _modularity_
+    - break a complicated task into many smaller sub-tasks
+    
+- _abstraction_
+    - you don't need to  know the inner workings of every part of the system, just how things interact
+    
+
+
+# A note on vectors
+
+
+## Vector vs List
+
+- vectors are homogeneous and sequential (1 dimensional)
+
+- lists are heterogeneous and hierarchical 
+
+## Vectors have a type
+
+- boolean
+
+- character
+
+- complex
+
+- raw
+
+- integer 
+
+- double
+
+
+## Integer vector
+
+```{r}
+c(1,2,3) # 1:3
+```
+
+## Boolean vector
+
+```{r}
+# boolean
+c(TRUE, FALSE, TRUE) 
+```
+
+## Character vector
+
+```{r}
+# string
+c('I', 'wish', 'vectors', 'were', 'named', 'lists', 'instead')
+
+```
+
+
+## `typeof()`
+
+```{r}
+typeof(rep(TRUE, 4))
+```
+
+
+
+## Question 1
+
+What are the types of the following vectors?
+
+```{r eval=F}
+# a
+c(1, 2, 'three')
+
+# b
+c(TRUE, TRUE, "FALSE")
+
+# c
+c(1, 2, 3.1)
+```
+
+## Explicit coercion
+
+
+```{r}
+as.integer(c('1', '2', '3'))
+```
+
+## Implicit coercion
+
+```{r}
+mytest <- c(1, 2, TRUE)
+```
+
+then 
+
+```{r}
+typeof(mytest)
+```
+
+
+## `rbind()` and `cbind()`
+
+
+```{r}
+u <- c(20, 3, pi)
+v <- c(-1, 0, exp(1))
+```
+
+
+```{r}
+rbind(u, v)
+```
+
+```{r}
+cbind(u, v)
+```
+
+
+
+## Coercion
+
+- Logical values are converted to numbers: TRUE is converted to 1 and FALSE to 0.
+
+- Values are converted to the simplest type required to represent all information.
+
+- The ordering is roughly:
+
+logical < integer < numeric < complex < character < list.
+
+- Object attributes are dropped when an object is coerced from one type to another.
+
+
+
+## Vectorized operations and implicit coercion
+
+```{r}
+sum(c(-2, -1, 1, 2, 3) > 0)
+
+```
+
+## Subsetting a vector
+
+```{r}
+v <- 1:10
+v[c(1,10)]
+
+```
+```{r}
+v[v %%2 == 0]
+
+```
+# A note on lists
+
+## Lists
+
+Lists can contain objects of multiple types and are indexed by names (as opposed to index sequentially)
+
+Like a vector, a list is an indexed set of objects (and so has a length), but unlike a vector the elements of a list can be of different types, including other lists! The _mode_ of a list is `list`.
+
+## Lists
+
+- A list is just a generic container for other objects and the power and utility of lists comes from this generality. 
+
+- A list might contain an individual measurement, a vector of observations on a single response variable, a dataframe, or even a list of dataframes containing the results of several experiments. 
+
+- 
+
+## Make a list
+
+```{r}
+L <- list(number=1, letter='a', bool=TRUE)
+L
+```
+
+## Access elements of a list with `[[]]`
+
+Single square brackets are used to select a sublist; double square brackets are used to extract a single element.
+
+
+To access elements of a list use `[[]]` 
+
+```{r}
+L[['number']]
+```
+
+## A single bracket returns a list
+
+
+you can use a single `[]` and this will return a list 
+
+```{r}
+L['number']
+
+```
+
+see [R4DS](http://r4ds.had.co.nz/vectors.html#lists) for the difference between `[]` and `[[]]`
+
+
+## Lists are hierarchical
+
+```{r}
+LoL <- list(names = list('Hadley', 'Garrett', 'Bob'),
+            numbers=list(1:3, 1:5, c(2,20,40)))
+
+LoL[['numbers']][[3]]
+```
+
+
+```{r}
+LoL[['names']][[1]]
+```
+
+## Another example
+```{r}
+my.list <- list("one", TRUE, 3, c("f","o","u","r"))
+my.list[[2]]
+```
+
+```{r}
+typeof(my.list[[2]])
+```
+```{r}
+my.list[[4]][1]
+```
+```{r}
+my.list[4][1]
+```
